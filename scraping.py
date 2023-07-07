@@ -23,7 +23,6 @@ def extract_ad_data(url):
             'placement': 'header',
             'text': 'Buy Now!',
             'image': 'https://example.com/ad-image.png',
-            # Include any other relevant ad data you want to extract
         }
 
         return ad_data

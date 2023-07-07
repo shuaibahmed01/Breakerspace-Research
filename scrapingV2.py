@@ -1,73 +1,65 @@
 import requests
-import json
-from adblockparser import AdblockRules
+from bs4 import BeautifulSoup
 
-def extract_ads_from_url(url, adblock_rules):
+def extract_ads_from_url(url):
     # Fetch the HTML content of the web page
     response = requests.get(url)
     html_content = response.text
 
-    # Extract ad information for different resource types
+    # Parse the HTML using BeautifulSoup
+    soup = BeautifulSoup(html_content, 'html.parser')
+
+    # Find ad elements based on the <aside> tag
+    ad_elements = soup.find_all('script')
+
+    # Extract ad information from the ad elements
     ads = []
-    ads.extend(extract_ads_for_resource(url, html_content, adblock_rules, 'script'))
-    ads.extend(extract_ads_for_resource(url, html_content, adblock_rules, 'image'))
-    ads.extend(extract_ads_for_resource(url, html_content, adblock_rules, 'stylesheet'))
-    ads.extend(extract_ads_for_resource(url, html_content, adblock_rules, 'object'))
-
-    return ads
-
-def extract_ads_for_resource(url, html_content, adblock_rules, resource_type):
-    # Apply the adblock_rules to the parsed HTML content for a specific resource type
-    options = {resource_type: True}
-    matched_elements = adblock_rules._matches(html_content, options, None, None, None)
-
-    # Extract ad information from the matched elements
-    ads = []
-    for element in matched_elements:
+    for element in ad_elements:
         ad = {
             'url': url,
-            'element': '',
-            'location': '',
-            'text_content': '',
-            'class': '',
-            'id': '',
-            'src': '',
-            'parent_tag': '',
-            'parent_attributes': {},
+            'element': element,
+            'text_content': element.get_text(strip=True),
+            'class': element.get('class', ''),
+            'id': element.get('id', ''),
+            'src': element.get('src', ''),
+            'parent_tag': element.parent.name,
+            'parent_attributes': element.parent.attrs,
             'position': {
-                'top': '',
-                'left': '',
-                'width': '',
-                'height': ''
+                'top': element.get('top', ''),
+                'left': element.get('left', ''),
+                'width': element.get('width', ''),
+                'height': element.get('height', '')
             }
         }
         ads.append(ad)
 
     return ads
 
-def extract_ads_from_urls_file(file_path, adblock_rules):
+def extract_ads_from_urls_file(file_path):
     ads_data = []
     with open(file_path, 'r') as file:
         for line in file:
             url = line.strip()
-            ads = extract_ads_from_url(url, adblock_rules)
+            ads = extract_ads_from_url(url)
             ads_data.extend(ads)
     return ads_data
 
-# Read the EasyList filter list file into a variable
-with open('/Users/shuaibahmed/Gunrock Breakerspace/URL:FL Matching/easylist.txt', 'r') as file:
-    el_rules = file.read().splitlines()
-
-# Create an instance of AdblockRules with the EasyList filter rules
-adblock_rules = AdblockRules(el_rules)
-
 # Example usage
-urls_file = '/Users/shuaibahmed/Gunrock Breakerspace/URL:FL Matching/urls.txt'
-ads_data = extract_ads_from_urls_file(urls_file, adblock_rules)
+urls_file = '/Users/shuaibahmed/Gunrock Breakerspace/URL:FL Matching/urls.txt'  # Replace with the path to your URLs text file
+output_file = '/Users/shuaibahmed/Gunrock Breakerspace/URL:FL Matching/output.txt'  # Replace with the desired output file path
 
-# Write the ad data to a JSON file
-output_file = '/Users/shuaibahmed/Gunrock Breakerspace/URL:FL Matching/output.json'
+ads_data = extract_ads_from_urls_file(urls_file)
+
 with open(output_file, 'w') as file:
-    json.dump(ads_data, file, indent=4)
+    for ad in ads_data:
+        file.write("URL: {}\n".format(ad['url']))
+        file.write("Text Content: {}\n".format(ad['text_content']))
+        file.write("Class: {}\n".format(ad['class']))
+        file.write("ID: {}\n".format(ad['id']))
+        file.write("Src: {}\n".format(ad['src']))
+        file.write("Parent Tag: {}\n".format(ad['parent_tag']))
+        file.write("Parent Attributes: {}\n".format(ad['parent_attributes']))
+        file.write("Position: {}\n".format(ad['position']))
+        file.write("--------------------------------------------------\n")
 
 print("Extraction complete. Ad data written to:", output_file)
