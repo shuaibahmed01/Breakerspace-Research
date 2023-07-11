@@ -1,7 +1,9 @@
 import json
 from adblockparser import AdblockRules
+import os
+import glob
 
-def extract_ad_data_from_har(har_file_path):
+def extract_ad_data_from_har(har_file_path, website_label):
     # Read EasyList rules from the file
     with open('/Users/shuaibahmed/Gunrock Breakerspace/URL:FL Matching/easylist.txt', 'r') as f:
         easylist_rules = f.read().splitlines()
@@ -12,6 +14,8 @@ def extract_ad_data_from_har(har_file_path):
 
     # List to store extracted ad data
     ad_data_list = []
+    header = f"FILE : {website_label}"
+    ad_data_list.append(header)
 
     # Load the HAR file
     with open(har_file_path, 'r') as har_file:
@@ -55,30 +59,55 @@ def extract_ad_data_from_har(har_file_path):
                 'status': response.get('status'),
                 'status_text': response.get('statusText'),
                 'headers': response.get('headers'),
-                'request_headers': request.get('headers')
+                'request_headers': request.get('headers'),
             }
 
             ad_data_list.append(ad_data)
+
+    seperator = '-------------------------------------------------------------------------------------------------------------'
+    ad_data_list.append(seperator)
 
     return ad_data_list
 
 
 def save_to_json(ad_data_list, filename):
     try:
+        if os.path.isfile(filename):
+            # Read the existing data from the file
+            with open(filename, 'r') as f:
+                try:
+                    existing_data = json.load(f)
+                except json.JSONDecodeError:
+                    existing_data = []
+        else:
+            existing_data = []
+        
+        # Append the new data to the existing data
+        existing_data.extend(ad_data_list)
+        
+        # Write the updated data back to the file
         with open(filename, 'w') as f:
-            json.dump(ad_data_list, f, indent=4)
+            json.dump(existing_data, f, indent=4)
     except Exception as e:
         print("Error occurred while saving to JSON:", str(e))
 
-# Example usage
-har_file_path = 'DentalTown.har'
-ad_data_list = extract_ad_data_from_har(har_file_path)
+def get_har_file_paths(directory):
+    har_files = glob.glob(os.path.join(directory, '*.har'))
+    return har_files
+    
 
-if ad_data_list:
-    print("Ad data extracted!")
-    # print("Ad data list:", ad_data_list)
-    save_to_json(ad_data_list, 'ad_data.json')
-    print("Ad data saved to 'ad_data.json' file.")
-else:
-    print("No ads found in the HAR file.")
+har_directory = '/Users/shuaibahmed/Gunrock Breakerspace/URL:FL Matching/HAR_files'  
+har_file_paths = get_har_file_paths(har_directory)
+
+
+for har_file_path in har_file_paths:
+    website_label = har_file_path
+    ad_data_list = extract_ad_data_from_har(har_file_path, website_label)
+    
+    if ad_data_list:
+        print("Ad data extracted from", har_file_path)
+        save_to_json(ad_data_list, 'output.json')
+        print("Ad data saved to 'ad_data.json' file.")
+    else:
+        print("No ads found in the HAR file", har_file_path)
 

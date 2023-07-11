@@ -1,4 +1,5 @@
 [
+    "FILE : /Users/shuaibahmed/Gunrock Breakerspace/URL:FL Matching/HAR_files/DentalTown.har",
     {
         "url": "https://www.googletagservices.com/tag/js/gpt.js",
         "dimensions": {
@@ -8368,5 +8369,3762 @@
                 "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
             }
         ]
-    }
+    },
+    "-------------------------------------------------------------------------------------------------------------",
+    "FILE : /Users/shuaibahmed/Gunrock Breakerspace/URL:FL Matching/HAR_files/NYtimes.har",
+    {
+        "url": "https://www.nytimes.com/vi-assets/static-assets/adslot-4d815b6492202d78c7ef.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "application/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "expires",
+                "value": "Sat, 06 Jul 2024 16:38:52 GMT"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:11:19 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "content-security-policy",
+                "value": "upgrade-insecure-requests; default-src data: 'unsafe-inline' 'unsafe-eval' https:; script-src data: 'unsafe-inline' 'unsafe-eval' https: blob:; style-src data: 'unsafe-inline' https:; img-src data: https: blob: android-webview-video-poster:; font-src data: https:; connect-src https: wss: blob:; media-src data: https: blob:; object-src https:; child-src https: data: blob:; form-action https:; report-uri https://csp.nytimes.com/report;"
+            },
+            {
+                "name": "x-api-version",
+                "value": "F-X"
+            },
+            {
+                "name": "age",
+                "value": "120746"
+            },
+            {
+                "name": "x-guploader-uploadid",
+                "value": "ADPycds6p3-ZCuWtdYzcgX8uuobdkMNN1klo0Mu2aJTKtN08LeQmaKOPReL7EVxrYZ0PU5zfXjY1Zp-5hgAtyHCmfXWu"
+            },
+            {
+                "name": "x-cache",
+                "value": "HIT"
+            },
+            {
+                "name": "x-goog-storage-class",
+                "value": "MULTI_REGIONAL"
+            },
+            {
+                "name": "x-goog-metageneration",
+                "value": "1"
+            },
+            {
+                "name": "x-goog-stored-content-encoding",
+                "value": "identity"
+            },
+            {
+                "name": "x-origin-time",
+                "value": "2023-07-07 16:38:56 UTC"
+            },
+            {
+                "name": "content-length",
+                "value": "7958"
+            },
+            {
+                "name": "x-served-by",
+                "value": "cache-bur-kbur8200114-BUR"
+            },
+            {
+                "name": "last-modified",
+                "value": "Fri, 07 Jul 2023 16:27:30 GMT"
+            },
+            {
+                "name": "server",
+                "value": "UploadServer"
+            },
+            {
+                "name": "x-timer",
+                "value": "S1688868679.331913,VS0,VE1"
+            },
+            {
+                "name": "etag",
+                "value": "\"ebd56236d74102dfef558ac9333f104b\""
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding, Fastly-SSL"
+            },
+            {
+                "name": "x-goog-generation",
+                "value": "1688747250820387"
+            },
+            {
+                "name": "x-goog-hash",
+                "value": "crc32c=pO4scg==, md5=69ViNtdBAt/vVYrJMz8QSw=="
+            },
+            {
+                "name": "content-type",
+                "value": "application/javascript"
+            },
+            {
+                "name": "onion-location",
+                "value": "https://www.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion/vi-assets/static-assets/adslot-4d815b6492202d78c7ef.js"
+            },
+            {
+                "name": "cache-control",
+                "value": "public,max-age=31536000"
+            },
+            {
+                "name": "x-nyt-app-webview",
+                "value": "0"
+            },
+            {
+                "name": "x-goog-stored-content-length",
+                "value": "23058"
+            },
+            {
+                "name": "x-gdpr",
+                "value": "0"
+            },
+            {
+                "name": "x-nyt-edge-cache",
+                "value": "HIT"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "x-nyt-route",
+                "value": "vi-assets"
+            },
+            {
+                "name": "x-cache-hits",
+                "value": "5929"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://c.amazon-adsystem.com/aax2/apstag.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "application/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "age",
+                "value": "154"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=3600"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "content-type",
+                "value": "application/javascript"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:08:47 GMT"
+            },
+            {
+                "name": "etag",
+                "value": "W/\"7c6a36eb4b73f6b7cf4a63a33418a2c9\""
+            },
+            {
+                "name": "last-modified",
+                "value": "Thu, 29 Jun 2023 21:03:21 GMT"
+            },
+            {
+                "name": "server",
+                "value": "AmazonS3"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "via",
+                "value": "1.1 802eebfb6e9ab6bda66a7156bc7add92.cloudfront.net (CloudFront), 1.1 e0cdcc717c322f59fa04c1e19ef93706.cloudfront.net (CloudFront)"
+            },
+            {
+                "name": "x-amz-cf-id",
+                "value": "QkcXHfzAPVSz7EJ-vgNEIv0lWyHsvM_NLcRBhwvZ7IAkqawCDBPCnQ=="
+            },
+            {
+                "name": "x-amz-cf-pop",
+                "value": "HIO50-C2"
+            },
+            {
+                "name": "x-amz-cf-pop",
+                "value": "SFO53-P5"
+            },
+            {
+                "name": "x-amz-server-side-encryption",
+                "value": "AES256"
+            },
+            {
+                "name": "x-cache",
+                "value": "Hit from cloudfront"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "c.amazon-adsystem.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/aax2/apstag.js"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "ad-id=A6ITnTHosUlZsK2smQIb9Pc; ad-privacy=0"
+            },
+            {
+                "name": "if-modified-since",
+                "value": "Thu, 29 Jun 2023 21:03:21 GMT"
+            },
+            {
+                "name": "if-none-match",
+                "value": "W/\"7c6a36eb4b73f6b7cf4a63a33418a2c9\""
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "script"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "cache-control",
+                "value": "private, max-age=900, stale-while-revalidate=3600"
+            },
+            {
+                "name": "content-disposition",
+                "value": "attachment; filename=\"f.txt\""
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "content-length",
+                "value": "25842"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript; charset=UTF-8"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:11:20 GMT"
+            },
+            {
+                "name": "etag",
+                "value": "762 / 19547 / m202306290101 / config-hash: 12381638052069933206"
+            },
+            {
+                "name": "expires",
+                "value": "Sun, 09 Jul 2023 02:11:20 GMT"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\""
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "securepubads.g.doubleclick.net"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/tag/js/gpt.js"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "DSID=AJ0cbrkcRt72YmRvxLYAgHpyq40F6-yImuI-fxyBNo7KqlhKgb_mUBLzwxPK9GVcHyFXvKlpS4BBbbrnhbxyUDHHZfS6eVzPHbjlRv85QcVhkJfqzUIXo2yTRy3Ol0Xk_A56EyIbIda4Ygoq5RW77djqvYXzIGV3k3nPhTF4d3WDsXZuNaucbF6SIxHRByHlWz_leOkPDddztBb2hH0BwqaTdpiCnRAEodoGYgRrM0SSyo9jJHnAbFWfBWqtVS3PNZ6RoLW3bYtwipwufAuiGGXmqzc_OavHBu08d8_j674-oa4sxzDpWfo; IDE=AHWqTUkru9eWPbBsDuvIEyQMh5nwcSApsus1goS3nLw8dGcJrR0c5_7xIgohpLUXwAU"
+            },
+            {
+                "name": "if-none-match",
+                "value": "970 / 19545 / m202306280101 / config-hash: 154671031251390638"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "script"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
+            }
+        ]
+    },
+    {
+        "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=12330&site_id=378266&zone_id=2088370&size_id=2&p_pos=atf&rf=https%3A%2F%2Fwww.nytimes.com%2F&kw=news%2Cliveupdates%2Clatestnews%2Cbreakingnews%2Clocalnews%2Ccurrentevents%2Ctopstories%2Clivestream%2Clivevideo%2Cworldnews%2Cusnews&tg_i.domain=nytimes.com&tg_i.page=https%3A%2F%2Fwww.nytimes.com%2F&tg_i.ref=https%3A%2F%2Fwww.google.com%2F&tg_i.invCode=nyt_home_top&tg_i.pbadslot=dfp-ad-top&tk_flint=pbjs_lite_v8.1.0&l_pb_bid_id=28419fbfabcd9e&p_screen_res=1440x900&rp_secure=1&rp_maxbids=1&slots=1&rand=0.41624454712126346",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "application/json",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "access-control-allow-credentials",
+                "value": "true"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "cache-control",
+                "value": "no-cache, no-store, max-age=0, must-revalidate"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "content-type",
+                "value": "application/json"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:11:20 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Wed, 17 Sep 1975 21:32:10 GMT"
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "server",
+                "value": "nginx/1.21.4"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "fastlane.rubiconproject.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/a/api/fastlane.json?account_id=12330&site_id=378266&zone_id=2088370&size_id=2&p_pos=atf&rf=https%3A%2F%2Fwww.nytimes.com%2F&kw=news%2Cliveupdates%2Clatestnews%2Cbreakingnews%2Clocalnews%2Ccurrentevents%2Ctopstories%2Clivestream%2Clivevideo%2Cworldnews%2Cusnews&tg_i.domain=nytimes.com&tg_i.page=https%3A%2F%2Fwww.nytimes.com%2F&tg_i.ref=https%3A%2F%2Fwww.google.com%2F&tg_i.invCode=nyt_home_top&tg_i.pbadslot=dfp-ad-top&tk_flint=pbjs_lite_v8.1.0&l_pb_bid_id=28419fbfabcd9e&p_screen_res=1440x900&rp_secure=1&rp_maxbids=1&slots=1&rand=0.41624454712126346"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "content-type",
+                "value": "text/plain"
+            },
+            {
+                "name": "cookie",
+                "value": "khaos=LHXR7QG9-1B-AJ8R; audit=1|vAET2ryzqEGmSuhnpi/GS/8Kp1zrZvfgTBWg1giU+eF1GoEZgeM+MN+gvZKhOLl7TF+EmpeRFd3mkYfMzwK1qsBQn6AvuCLFmKg/uhIawjxkaV6wacRxJUVJjZmtbhDc"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=12330&site_id=378266&zone_id=2088372&size_id=2&p_pos=btf&rf=https%3A%2F%2Fwww.nytimes.com%2F&kw=news%2Cliveupdates%2Clatestnews%2Cbreakingnews%2Clocalnews%2Ccurrentevents%2Ctopstories%2Clivestream%2Clivevideo%2Cworldnews%2Cusnews&tg_i.domain=nytimes.com&tg_i.page=https%3A%2F%2Fwww.nytimes.com%2F&tg_i.ref=https%3A%2F%2Fwww.google.com%2F&tg_i.invCode=nyt_home_mid1&tg_i.pbadslot=dfp-ad-mid1&tk_flint=pbjs_lite_v8.1.0&l_pb_bid_id=3e3d45f8483802&p_screen_res=1440x900&rp_secure=1&rp_maxbids=1&slots=1&rand=0.11059481075724453",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "application/json",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "access-control-allow-credentials",
+                "value": "true"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "cache-control",
+                "value": "no-cache, no-store, max-age=0, must-revalidate"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "content-type",
+                "value": "application/json"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:11:20 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Wed, 17 Sep 1975 21:32:10 GMT"
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "server",
+                "value": "nginx/1.21.4"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "fastlane.rubiconproject.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/a/api/fastlane.json?account_id=12330&site_id=378266&zone_id=2088372&size_id=2&p_pos=btf&rf=https%3A%2F%2Fwww.nytimes.com%2F&kw=news%2Cliveupdates%2Clatestnews%2Cbreakingnews%2Clocalnews%2Ccurrentevents%2Ctopstories%2Clivestream%2Clivevideo%2Cworldnews%2Cusnews&tg_i.domain=nytimes.com&tg_i.page=https%3A%2F%2Fwww.nytimes.com%2F&tg_i.ref=https%3A%2F%2Fwww.google.com%2F&tg_i.invCode=nyt_home_mid1&tg_i.pbadslot=dfp-ad-mid1&tk_flint=pbjs_lite_v8.1.0&l_pb_bid_id=3e3d45f8483802&p_screen_res=1440x900&rp_secure=1&rp_maxbids=1&slots=1&rand=0.11059481075724453"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "content-type",
+                "value": "text/plain"
+            },
+            {
+                "name": "cookie",
+                "value": "khaos=LHXR7QG9-1B-AJ8R; audit=1|vAET2ryzqEGmSuhnpi/GS/8Kp1zrZvfgTBWg1giU+eF1GoEZgeM+MN+gvZKhOLl7TF+EmpeRFd3mkYfMzwK1qsBQn6AvuCLFmKg/uhIawjxkaV6wacRxJUVJjZmtbhDc"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=12330&site_id=378266&zone_id=2088372&size_id=2&p_pos=btf&rf=https%3A%2F%2Fwww.nytimes.com%2F&kw=news%2Cliveupdates%2Clatestnews%2Cbreakingnews%2Clocalnews%2Ccurrentevents%2Ctopstories%2Clivestream%2Clivevideo%2Cworldnews%2Cusnews&tg_i.domain=nytimes.com&tg_i.page=https%3A%2F%2Fwww.nytimes.com%2F&tg_i.ref=https%3A%2F%2Fwww.google.com%2F&tg_i.invCode=nyt_home_mid2&tg_i.pbadslot=dfp-ad-mid2&tk_flint=pbjs_lite_v8.1.0&l_pb_bid_id=43c2f18b7c51e2&p_screen_res=1440x900&rp_secure=1&rp_maxbids=1&slots=1&rand=0.8706619330395824",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "application/json",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "access-control-allow-credentials",
+                "value": "true"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "cache-control",
+                "value": "no-cache, no-store, max-age=0, must-revalidate"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "content-type",
+                "value": "application/json"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:11:20 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Wed, 17 Sep 1975 21:32:10 GMT"
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "server",
+                "value": "nginx/1.21.4"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "fastlane.rubiconproject.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/a/api/fastlane.json?account_id=12330&site_id=378266&zone_id=2088372&size_id=2&p_pos=btf&rf=https%3A%2F%2Fwww.nytimes.com%2F&kw=news%2Cliveupdates%2Clatestnews%2Cbreakingnews%2Clocalnews%2Ccurrentevents%2Ctopstories%2Clivestream%2Clivevideo%2Cworldnews%2Cusnews&tg_i.domain=nytimes.com&tg_i.page=https%3A%2F%2Fwww.nytimes.com%2F&tg_i.ref=https%3A%2F%2Fwww.google.com%2F&tg_i.invCode=nyt_home_mid2&tg_i.pbadslot=dfp-ad-mid2&tk_flint=pbjs_lite_v8.1.0&l_pb_bid_id=43c2f18b7c51e2&p_screen_res=1440x900&rp_secure=1&rp_maxbids=1&slots=1&rand=0.8706619330395824"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "content-type",
+                "value": "text/plain"
+            },
+            {
+                "name": "cookie",
+                "value": "khaos=LHXR7QG9-1B-AJ8R; audit=1|vAET2ryzqEGmSuhnpi/GS/8Kp1zrZvfgTBWg1giU+eF1GoEZgeM+MN+gvZKhOLl7TF+EmpeRFd3mkYfMzwK1qsBQn6AvuCLFmKg/uhIawjxkaV6wacRxJUVJjZmtbhDc"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=12330&site_id=378266&zone_id=2088372&size_id=2&p_pos=btf&rf=https%3A%2F%2Fwww.nytimes.com%2F&kw=news%2Cliveupdates%2Clatestnews%2Cbreakingnews%2Clocalnews%2Ccurrentevents%2Ctopstories%2Clivestream%2Clivevideo%2Cworldnews%2Cusnews&tg_i.domain=nytimes.com&tg_i.page=https%3A%2F%2Fwww.nytimes.com%2F&tg_i.ref=https%3A%2F%2Fwww.google.com%2F&tg_i.invCode=nyt_home_mid3&tg_i.pbadslot=dfp-ad-mid3&tk_flint=pbjs_lite_v8.1.0&l_pb_bid_id=58db234a49238c&p_screen_res=1440x900&rp_secure=1&rp_maxbids=1&slots=1&rand=0.7629281291217551",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "application/json",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "access-control-allow-credentials",
+                "value": "true"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "cache-control",
+                "value": "no-cache, no-store, max-age=0, must-revalidate"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "content-type",
+                "value": "application/json"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:11:20 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Wed, 17 Sep 1975 21:32:10 GMT"
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "server",
+                "value": "nginx/1.21.4"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "fastlane.rubiconproject.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/a/api/fastlane.json?account_id=12330&site_id=378266&zone_id=2088372&size_id=2&p_pos=btf&rf=https%3A%2F%2Fwww.nytimes.com%2F&kw=news%2Cliveupdates%2Clatestnews%2Cbreakingnews%2Clocalnews%2Ccurrentevents%2Ctopstories%2Clivestream%2Clivevideo%2Cworldnews%2Cusnews&tg_i.domain=nytimes.com&tg_i.page=https%3A%2F%2Fwww.nytimes.com%2F&tg_i.ref=https%3A%2F%2Fwww.google.com%2F&tg_i.invCode=nyt_home_mid3&tg_i.pbadslot=dfp-ad-mid3&tk_flint=pbjs_lite_v8.1.0&l_pb_bid_id=58db234a49238c&p_screen_res=1440x900&rp_secure=1&rp_maxbids=1&slots=1&rand=0.7629281291217551"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "content-type",
+                "value": "text/plain"
+            },
+            {
+                "name": "cookie",
+                "value": "khaos=LHXR7QG9-1B-AJ8R; audit=1|vAET2ryzqEGmSuhnpi/GS/8Kp1zrZvfgTBWg1giU+eF1GoEZgeM+MN+gvZKhOLl7TF+EmpeRFd3mkYfMzwK1qsBQn6AvuCLFmKg/uhIawjxkaV6wacRxJUVJjZmtbhDc"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://fastlane.rubiconproject.com/a/api/fastlane.json?account_id=12330&site_id=378266&zone_id=2088374&size_id=2&p_pos=btf&rf=https%3A%2F%2Fwww.nytimes.com%2F&kw=news%2Cliveupdates%2Clatestnews%2Cbreakingnews%2Clocalnews%2Ccurrentevents%2Ctopstories%2Clivestream%2Clivevideo%2Cworldnews%2Cusnews&tg_i.domain=nytimes.com&tg_i.page=https%3A%2F%2Fwww.nytimes.com%2F&tg_i.ref=https%3A%2F%2Fwww.google.com%2F&tg_i.invCode=nyt_home_bottom&tg_i.pbadslot=dfp-ad-bottom&tk_flint=pbjs_lite_v8.1.0&l_pb_bid_id=6ede9deb8e9548&p_screen_res=1440x900&rp_secure=1&rp_maxbids=1&slots=1&rand=0.08811009448730278",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "application/json",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "access-control-allow-credentials",
+                "value": "true"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "cache-control",
+                "value": "no-cache, no-store, max-age=0, must-revalidate"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "content-type",
+                "value": "application/json"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:11:20 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Wed, 17 Sep 1975 21:32:10 GMT"
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "server",
+                "value": "nginx/1.21.4"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "fastlane.rubiconproject.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/a/api/fastlane.json?account_id=12330&site_id=378266&zone_id=2088374&size_id=2&p_pos=btf&rf=https%3A%2F%2Fwww.nytimes.com%2F&kw=news%2Cliveupdates%2Clatestnews%2Cbreakingnews%2Clocalnews%2Ccurrentevents%2Ctopstories%2Clivestream%2Clivevideo%2Cworldnews%2Cusnews&tg_i.domain=nytimes.com&tg_i.page=https%3A%2F%2Fwww.nytimes.com%2F&tg_i.ref=https%3A%2F%2Fwww.google.com%2F&tg_i.invCode=nyt_home_bottom&tg_i.pbadslot=dfp-ad-bottom&tk_flint=pbjs_lite_v8.1.0&l_pb_bid_id=6ede9deb8e9548&p_screen_res=1440x900&rp_secure=1&rp_maxbids=1&slots=1&rand=0.08811009448730278"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "content-type",
+                "value": "text/plain"
+            },
+            {
+                "name": "cookie",
+                "value": "khaos=LHXR7QG9-1B-AJ8R; audit=1|vAET2ryzqEGmSuhnpi/GS/8Kp1zrZvfgTBWg1giU+eF1GoEZgeM+MN+gvZKhOLl7TF+EmpeRFd3mkYfMzwK1qsBQn6AvuCLFmKg/uhIawjxkaV6wacRxJUVJjZmtbhDc"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://rtb.openx.net/openrtbb/prebidjs",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/plain",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "access-control-allow-credentials",
+                "value": "true"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "content-type",
+                "value": "text/plain"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:11:20 GMT"
+            },
+            {
+                "name": "vary",
+                "value": "Origin"
+            },
+            {
+                "name": "via",
+                "value": "1.1 google"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "rtb.openx.net"
+            },
+            {
+                "name": ":method",
+                "value": "POST"
+            },
+            {
+                "name": ":path",
+                "value": "/openrtbb/prebidjs"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "content-length",
+                "value": "1607"
+            },
+            {
+                "name": "content-type",
+                "value": "text/plain"
+            },
+            {
+                "name": "cookie",
+                "value": "i=a377fa30-9452-4f7e-ace7-7d79dcd6a07e|1674167873; univ_id=537072971|9efe009b-4aea-452f-b983-b09134178603|1688617086496843; pd=v2|1688614988.2097.2.81862.9.11.7.6056.163595.16.9|gy.iKbwvPuYvMgahEkWgKg2.wvg6mmwteSvJwrf8vuwi.vR.mK.fY.n8.hAvZnof4csoq.hMs7lwvDvUvE.rZvswwtpsvv5.t1wcwssTw7wgw1lkjgeD"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://prebid.media.net/rtb/prebid?cid=8CU4WQK98",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "application/json",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "accept-ch",
+                "value": "Sec-CH-UA-Mobile,Sec-CH-UA-Platform,Sec-CH-UA-Platform-Version,Sec-CH-UA-Arch,Sec-CH-UA-Bitness,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Model"
+            },
+            {
+                "name": "access-control-allow-credentials",
+                "value": "true"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "alt-svc",
+                "value": "clear"
+            },
+            {
+                "name": "cache-control",
+                "value": "max-age=0, no-cache, no-store, must-revalidate"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "content-type",
+                "value": "application/json;charset=UTF-8"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:11:20 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Sun, 09 Jul 2023 02:11:20 GMT"
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "server",
+                "value": "nginx"
+            },
+            {
+                "name": "via",
+                "value": "1.1 google"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "prebid.media.net"
+            },
+            {
+                "name": ":method",
+                "value": "POST"
+            },
+            {
+                "name": ":path",
+                "value": "/rtb/prebid?cid=8CU4WQK98"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "content-length",
+                "value": "2583"
+            },
+            {
+                "name": "content-type",
+                "value": "text/plain"
+            },
+            {
+                "name": "cookie",
+                "value": "usp_status=1; visitor-id=3171694750545452000V10; data-mf=842b4828-d5a0-45cf-bb26-b0624034a7dd~~1; data-rk=1917759395360182364~~8; data-xu=wdopKlha1PiDxF5~~8; data-ris={{APID}}~~25; data-r=LD3OBQYI-1C-52WZ~~1; data-bs=b4f6105f-ed4e-4a1c-b3d7-bd2289e10752~~1; data-pba=4185F901-B0A4-4D9E-BDB0-7093AEC5B6ED~~8; data-o=b8f7acf6-96d5-4a69-957e-cbff0a1e015f~~3; data-rbh=xKFDVT0SpkbsL02fhT7d~~1; data-amb=8663706590960684217~~9; data-r1=RX-88fdc6b5-54c7-4bce-8cac-ecee12e7ef53-005~~9; data-ot=WvJguWflPRJf4BXGQcwGMgXtivHDVAb8yUl48qBa48A~~1; data-di=di_18c16a43065b44b7a9d6d~~8; data-acu=e155830d-1b07-4fef-a8ee-caa9fbab57d6~~8; data-mm=391663c9-c642-4200-b8ef-1862ff6a61e9~~6; data-bt=7ecc1bba-71c1-4225-b5f7-dfe1ca1b18f9~~1; data-bai=2105329c5fcded3caa515fcc9ac5a5ff~~1; data-lop=6d7ea68f-6295-4dbd-9e41-bc7d202a91dd~~1; data-v={{APID}}~~1; data-pbs=setstatuscode~~1; data-pri=63cca19eb3f1b~~34; data-le=0ccf5632-a1d9-11ed-8c3c-801844df0ab8~~8; data-xc=212082318876955~~8; data-dat=setstatuscode~~1; data-mic=ntO4DnYMIPOKzw_8UJOlX3Bj2voHqXYY6D5J2pJu2F1-0Z8ke6xxTycVk8a8kpjVOuRnlmV_PHM~~1; data-icl=2023040819075500034412700163167108~~1; data-inf=setstatuscode~~41; data-co=AQEIvFClCeHuVAE7z5TGAQA5mgE~~3; data-c=k-ZORas42Ug74YlfaTzjRG3OXJOrcIZqW_Rg-7xw~~3; data-so=1940149e-1510-4ccb-9081-fa93d2376c1d~~35; data-c-ts=1687373756; data-tam=setstatuscode~~35; data-ttd=9efe009b-4aea-452f-b983-b09134178603~~1; data-a=7791154945712673780~~16; data-lr=Akq-UPjJdECIihakZ18BJt-qElnLySuIhEyfrJintTrIYgdszJOW0jChrnm0WgyWjHX1Se9nsl11012z0Y6UKgKTggM6Ko5GkeBx~~1"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://tlx.3lift.com/header/auction?lib=prebid&v=8.1.0&referrer=https%3A%2F%2Fwww.nytimes.com%2F&tmax=10000",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "application/json",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "access-control-allow-credentials",
+                "value": "true"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "cache-control",
+                "value": "no-cache, no-store, must-revalidate"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "content-length",
+                "value": "23802"
+            },
+            {
+                "name": "content-type",
+                "value": "application/json; charset=utf-8"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:11:20 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Thu, 15 Oct 1992 20:10:00 GMT"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"http://cdn.3lift.com/w3c/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\""
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "set-cookie",
+                "value": "tluid=4596039404327367381854; Path=/; Domain=.3lift.com; Max-Age=7776000; Expires=Sat, 07 Oct 2023 02:11:20 GMT; Secure; SameSite=None"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "tlx.3lift.com"
+            },
+            {
+                "name": ":method",
+                "value": "POST"
+            },
+            {
+                "name": ":path",
+                "value": "/header/auction?lib=prebid&v=8.1.0&referrer=https%3A%2F%2Fwww.nytimes.com%2F&tmax=10000"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "content-length",
+                "value": "1192"
+            },
+            {
+                "name": "content-type",
+                "value": "text/plain"
+            },
+            {
+                "name": "cookie",
+                "value": "tluid=4596039404327367381854"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://ib.adnxs.com/ut/v3/prebid",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "application/json",
+        "status": 200,
+        "status_text": "OK",
+        "headers": [
+            {
+                "name": "AN-X-Request-Uuid",
+                "value": "88539eee-f6f8-4ef8-867e-9bbb0b698fc5"
+            },
+            {
+                "name": "Accept-CH",
+                "value": "Sec-CH-UA-Full-Version-List,Sec-CH-UA-Arch,Sec-CH-UA-Model,Sec-CH-UA-Platform-Version,Sec-CH-UA-Bitness"
+            },
+            {
+                "name": "Access-Control-Allow-Credentials",
+                "value": "true"
+            },
+            {
+                "name": "Access-Control-Allow-Origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "Cache-Control",
+                "value": "no-store, no-cache, private"
+            },
+            {
+                "name": "Connection",
+                "value": "keep-alive"
+            },
+            {
+                "name": "Content-Encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "Content-Type",
+                "value": "application/json; charset=utf-8"
+            },
+            {
+                "name": "Date",
+                "value": "Sun, 09 Jul 2023 02:11:21 GMT"
+            },
+            {
+                "name": "Expires",
+                "value": "Sat, 15 Nov 2008 16:00:00 GMT"
+            },
+            {
+                "name": "P3P",
+                "value": "policyref=\"http://cdn.adnxs-simple.com/w3c/policy/p3p.xml\", CP=\"NOI DSP COR ADM PSAo PSDo OURo SAMo UNRo OTRo BUS COM NAV DEM STA PRE\""
+            },
+            {
+                "name": "Pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "Server",
+                "value": "nginx/1.21.3"
+            },
+            {
+                "name": "Set-Cookie",
+                "value": "icu=ChgIkbx3EAoYASABKAEwya6opQY4AUABSAEKGAjsxX8QChgEIAQoBDDArqilBjgEQARIBBDJrqilBhgE; SameSite=None; Path=/; Max-Age=7776000; Expires=Sat, 07-Oct-2023 02:11:21 GMT; Domain=.adnxs.com; Secure; HttpOnly"
+            },
+            {
+                "name": "Set-Cookie",
+                "value": "uuid2=7791154945712673780; SameSite=None; Path=/; Max-Age=7776000; Expires=Sat, 07-Oct-2023 02:11:21 GMT; Domain=.adnxs.com; Secure; HttpOnly"
+            },
+            {
+                "name": "Transfer-Encoding",
+                "value": "chunked"
+            },
+            {
+                "name": "Vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "X-Proxy-Origin",
+                "value": "98.224.87.144; 98.224.87.144; 893.bm-nginx-loadbalancer.mgmt.lax1.adnexus.net; adnxs.com"
+            },
+            {
+                "name": "X-XSS-Protection",
+                "value": "0"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "Accept",
+                "value": "*/*"
+            },
+            {
+                "name": "Accept-Encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "Accept-Language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "Connection",
+                "value": "keep-alive"
+            },
+            {
+                "name": "Content-Length",
+                "value": "1818"
+            },
+            {
+                "name": "Content-Type",
+                "value": "text/plain"
+            },
+            {
+                "name": "Cookie",
+                "value": "uuid2=7791154945712673780; uids=eyJ0ZW1wVUlEcyI6eyJhZGZvcm0iOnsidWlkIjoiMjg2NzAwNzM1ODE2OTEwNjAxNSIsImV4cGlyZXMiOiIyMDIzLTEwLTA0VDA0OjE4OjAxWiJ9LCJhZG1hbiI6eyJ1aWQiOiIyZDA2NjljNi0wNDAyLTQ3MTItOGFiNC0wZThkNTc5Mzk3YzgiLCJleHBpcmVzIjoiMjAyMy0xMC0wNFQwNDoxODoxMVoifSwiYWRueHMiOnsidWlkIjoiNzc5MTE1NDk0NTcxMjY3Mzc4MCIsImV4cGlyZXMiOiIyMDIzLTA3LTExVDA0OjQ4OjExLjEzMzIxMjY1WiJ9LCJhZHNpbnRlcmFjdGl2ZSI6eyJ1aWQiOiJGazY2MTJzZHlyMFc4Y09tbW84QndpR1lXODVCRVNlN1ZYQzZTNGFtIiwiZXhwaXJlcyI6IjIwMjMtMDktMjVUMDQ6NDg6MThaIn0sImFteCI6eyJ1aWQiOiIxZjMxYTE3Ni1kYjFiLTQxNWQtODcxYy02OWY0MjAxYjEzNDYiLCJleHBpcmVzIjoiMjAyMy0xMC0wNFQwNDoxODowMFoifSwiYmVhY2hmcm9udCI6eyJ1aWQiOiI5ZWZlMDA5Yi00YWVhLTQ1MmYtYjk4My1iMDkxMzQxNzg2MDMiLCJleHBpcmVzIjoiMjAyMy0wOS0yNVQwNDo0ODoxM1oifSwiY29ubmVjdGFkIjp7InVpZCI6IkVobEZjUGdTM3l5aU55QzEwMGRyTVVqdzJWUXprQTJJNkVybVh0RnEiLCJleHBpcmVzIjoiMjAyMy0wNy0xMVQwNDo0OToxMy41NzI4OTcxNVoifSwiZGVlcGludGVudCI6eyJ1aWQiOiJbVUlEXSIsImV4cGlyZXMiOiIyMDIzLTEwLTA0VDA0OjE4OjA5WiJ9LCJlX3ZvbHV0aW9uIjp7InVpZCI6ImMwMTg4NTk0LWMzODAtNDFmMy04MmQ1LTA2YWU1ODRiYmNhYiIsImV4cGlyZXMiOiIyMDIzLTA5LTI1VDA0OjQ4OjExWiJ9LCJnYW1vc2hpIjp7InVpZCI6Imd1c3JfODRjNTY0YTc1OGUzNGI3ODhlZDM4YzBjNmIyZjY5YmQiLCJleHBpcmVzIjoiMjAyMy0xMC0wNFQwNDoxODowM1oifSwiZ3JpZCI6eyJ1aWQiOiJiNGY2MTA1Zi1lZDRlLTRhMWMtYjNkNy1iZDIyODllMTA3NTIiLCJleHBpcmVzIjoiMjAyMy0xMC0wNFQwNDoxODowMVoifSwiZ3VtZ3VtIjp7InVpZCI6InVfZDlhN2VkNjAtOTJhNi00ZjczLWJiMmYtYjY5M2M3MTgzOTJiIiwiZXhwaXJlcyI6IjIwMjMtMTAtMDRUMDQ6MTc6NTJaIn0sImltZHMiOnsidWlkIjoiMEQwMDQyMUJCQjhBNEE4RkE1RjBCQjhENTc2MkMzNDYiLCJleHBpcmVzIjoiMjAyMy0xMC0wNFQwNDoxODowN1oifSwiaW1wcm92ZWRpZ2l0YWwiOnsidWlkIjoiMWZkMjY5NWQtNzk2Yi00YjJjLTgyMTQtYzA5Y2Q2ZjM2YThlIiwiZXhwaXJlcyI6IjIwMjMtMTAtMDRUMDQ6MTg6MDBaIn0sImppeGllIjp7InVpZCI6IjY5NjE0MzEwLWE2NWItMTFlZC1iOTE5LTUzYTI2MDVlN2Q0ZSIsImV4cGlyZXMiOiIyMDIzLTEwLTA0VDA0OjE3OjUwWiJ9LCJrcnVzaG1lZGlhIjp7InVpZCI6ImRhODBkY2Y0LWNmN2EtNDFkOS04Yzg0LTkwNjE2MGIyMTI3NiIsImV4cGlyZXMiOiIyMDIzLTEwLTA0VDA0OjE4OjAxWiJ9LCJsb2dhbiI6eyJ1aWQiOiI4YjQ1MGM0Ni1hMDRjLTQ5OWUtOWVhZC1mNDQ3ZTVmZjNiMjYiLCJleHBpcmVzIjoiMjAyMy0wOS0yNVQwNDo0ODoxNFoifSwibWVkaWFuZXQiOnsidWlkIjoiMzE3MTY5NDc1MDU0NTQ1MjAwMFYxMCIsImV4cGlyZXMiOiIyMDIzLTEwLTA0VDA0OjE4OjA3WiJ9LCJuYW5vaW50ZXJhY3RpdmUiOnsidWlkIjoiYWUyZWEzOTU2NDE4MGYyNTgxOTdiMGVlMDAyNGVjZWRlNjExYTk5NjAyMWI4ZTc0NTNiOWI4MWNiYTYyZjIyNiIsImV4cGlyZXMiOiIyMDIzLTA5LTI1VDA0OjQ4OjE0WiJ9LCJwdWxzZXBvaW50Ijp7InVpZCI6IkxqMVlMcEZsMHNiWSIsImV4cGlyZXMiOiIyMDIzLTA5LTI1VDA0OjQ4OjE0WiJ9LCJxdWFudHVtZGV4Ijp7InVpZCI6IjRhMWNhMTJlLTA2ZjUtNDJjNi04MzEyLWYyM2IwN2NmNTQ2NSIsImV4cGlyZXMiOiIyMDIzLTEwLTA0VDA0OjE4OjA0WiJ9LCJyaWNoYXVkaWVuY2UiOnsidWlkIjoiMWJiZTdmNWMtZTQ5ZC00ZDY0LThlMTMtMXp6MTY4NzM3MzcyMiIsImV4cGlyZXMiOiIyMDIzLTEwLTA0VDA0OjE4OjAyWiJ9LCJydWJpY29uIjp7InVpZCI6IkxIWFI3UUc5LTFCLUFKOFIiLCJleHBpcmVzIjoiMjAyMy0wNy0yMFQwNjo0NjowMS40Njc2MTgyOFoifSwic2VlZGluZ0FsbGlhbmNlIjp7InVpZCI6IjBlOTFlNzNjLWQzZGMtNGM5NS1iMzlmLTRmZDVlY2FiYmQxYiIsImV4cGlyZXMiOiIyMDIzLTA5LTI1VDA0OjQ4OjEyWiJ9LCJzaGFyZXRocm91Z2giOnsidWlkIjoiYzgwY2QwNWQtMzA0ZS00ZWYxLTg1ZDgtMmRhNDUwZjVjNzA3IiwiZXhwaXJlcyI6IjIwMjMtMTAtMDRUMDQ6MTg6MDJaIn0sInNtYWF0byI6eyJ1aWQiOiJmYzM2Yzc5MyIsImV4cGlyZXMiOiIyMDIzLTEwLTA0VDA0OjE3OjU3WiJ9LCJ0YXBweCI6eyJ1aWQiOiJjMmQwZWFlNi1iNmIyLTQwYzYtOGI5MC04MDhkM2FhZGYyNjdmMWEiLCJleHBpcmVzIjoiMjAyMy0xMC0wNFQwNDoxODowNloifSwidHJpcGxlbGlmdCI6eyJ1aWQiOiI0NTk2MDM5NDA0MzI3MzY3MzgxODU0IiwiZXhwaXJlcyI6IjIwMjMtMTAtMDRUMDQ6MTg6MTBaIn0sInRyaXBsZWxpZnRfbmF0aXZlIjp7InVpZCI6IjQ1OTYwMzk0MDQzMjczNjczODE4NTQiLCJleHBpcmVzIjoiMjAyMy0xMC0wNFQwNDoxODoxMVoifSwidW5kZXJ0b25lIjp7InVpZCI6ImM0MzI5MGEyMDI1ZTRiYTE4NjBkNjc4ZjRjZDJmMjdiIiwiZXhwaXJlcyI6IjIwMjMtMDktMjVUMDQ6NDg6MTVaIn0sInVucnVseSI6eyJ1aWQiOiJSWC04OGZkYzZiNS01NGM3LTRiY2UtOGNhYy1lY2VlMTJlN2VmNTMtMDA1IiwiZXhwaXJlcyI6IjIwMjMtMTAtMDRUMDQ6MTc6NTFaIn0sInZhbHVlaW1wcmVzc2lvbiI6eyJ1aWQiOiI0YTFjYTEyZS0wNmY1LTQyYzYtODMxMi1mMjNiMDdjZjU0NjUiLCJleHBpcmVzIjoiMjAyMy0xMC0wNFQwNDoxODoxMloifSwidmlkZW9ieXRlIjp7InVpZCI6IjA1YmExYzk2LTczNTAtNGM3MS05OTQzLTNiOGY1YzI3MDIxNSIsImV4cGlyZXMiOiIyMDIzLTEwLTA0VDA0OjE4OjEwWiJ9LCJ5YWhvb3NzcCI6eyJ1aWQiOiJ5LWcyU0I3MkpFMnVFZ25vUmU5UWdsTVkxcDN6cWZpRHByVEJOR3hTNC1-QSIsImV4cGlyZXMiOiIyMDIzLTA5LTI1VDA0OjQ4OjEyWiJ9fX0=; usersync=eNqdWMtqIzEQ_Jc5-9AvtST_SljCkvXBkE1CbMKGkH_PsC8ZLMnTBT7ZU-7q6prulj6Wt8Pr6fj8tOx5t7wcfx0eT8v-7mM5_lj2tltO708P96fz99fz-oCX4pzJ69_vH55_vjwezof1p8_dH0iKQ0oP4utnDKkdiJjZBMLUZ5Z5gmEAYwAmDfKZqPZfngtM8RWWrzD0DyNAPpIG5UkTTN7MrWFK3DmqcW6a4t7RGs_HLG7rRHGMc1wDl7gGBeBWOtwyJVIbe7Qg3HRznNZCOF7T6nENmIAXiBlovRxoCQ0kCuSkBWjAxvEqsQHTgVMGQK4D9coM1O0mqfqkC6_PxNUTBugJl830LkCDbqcz0Gi0zAwrIkik7YZtg08JiKQG1EkdkNx0M72WU2_C3AY5IIQhNkqI5AnaUCw-ZiQlJBJS3G43urHdrf-5GdRycmCPFEcWyayAehmRPFcgp97icbNOw81jGsmQSAkBOeDyCtBTovhQU7qil1Nm8zLb3ynHe4T2TnK_hZAZSBCQxh2h7EAk2Z5Tk1wqEEklvkeobl8-Gj0deS9NQGbxJVENOTtaBYRIQI_Q_jo673vqFB8A2j_YdSW_iARMDUV2WM0IvQwchTQnJJIDjsiI97pDrQ9qxS0E5FSQN7cYEgmRvCKRKlKnWoBuVGucnhHFFyoj4DrCSOI2MtL41DAyhF4BQEzxxmJa4y43o_jFjF1fYuQqRMrTq8DI2f3b5xfwSk7D; anj=dTM7k!M40<E:EvWF']wIg2C''d7JVk!s9VF68r.c#DUJrIza^X?[@nJ46B=35QhUzJzH-33jjUvJIO?qIho8Tpma#61DYLr)jiXZ:SakN$+YMk@a1ll4CZhZ0yYBsD`[`RG4*K?Ymh0aVb*#5G9^XgE</NVVv/tDFTd0pHMM0g20.9(jW-3LR-X(>=BWzxcw#7De:@T`cyLw^ka.Cve8=s)fHqFL4/Iq.(]a3K<]$u$=mP.725]>ck^t%sg4WY2i($4@4X6>X2%eHk(UlNfO=`Pz*L-c>2suQO==`?n4daaIDyU'79ZE]LD>p]@EA<vu5(e6aUkEGoCT)E(ezXAT17z`92Ep$R!p32'nmX.'tnJ/:jBr]b<Pad?$.CP!W!b[bV=PPKAFQ#2#)Pto!v]8*p!NgBDkgsNICCp^a/i!Q%v7jLaMv^6U.m9Ep_!(nP]j>vc:NqN4Reh_]#W7:-]jPqFO=iQd7nl54IU28akh@<n_9%2cRQI]q`Ul_qqJzw/Jg+wBmVI1riIwOCjf%s=yN:?o9sg$AsGk6HP$cCIH*1?Ln>DPqas4%:nP<Y4$R:9B#b]KSifZT(=_s!NOPtMx5buG(DrA@7vOB?@Og41(79Y)!.)U`^U.^); icu=ChgI7MV_EAoYBCAEKAQwwK6opQY4BEAESAQQwK6opQYYAw.."
+            },
+            {
+                "name": "Host",
+                "value": "ib.adnxs.com"
+            },
+            {
+                "name": "Origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "Referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "Sec-Fetch-Dest",
+                "value": "empty"
+            },
+            {
+                "name": "Sec-Fetch-Mode",
+                "value": "cors"
+            },
+            {
+                "name": "Sec-Fetch-Site",
+                "value": "cross-site"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://c.amazon-adsystem.com/cdn/prod/config?src=3030&u=https%3A%2F%2Fwww.nytimes.com",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/plain",
+        "status": 204,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "access-control-allow-credentials",
+                "value": "true"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "age",
+                "value": "15073"
+            },
+            {
+                "name": "cache-control",
+                "value": "max-age=21550, s-maxage=21600"
+            },
+            {
+                "name": "date",
+                "value": "Sat, 08 Jul 2023 22:00:07 GMT"
+            },
+            {
+                "name": "server",
+                "value": "Server"
+            },
+            {
+                "name": "via",
+                "value": "1.1 e0cdcc717c322f59fa04c1e19ef93706.cloudfront.net (CloudFront)"
+            },
+            {
+                "name": "x-amz-cf-id",
+                "value": "2TQqIPUP860RwwmQuAMc3dGvAQ5CniHuMkjmblaOPE6V2d6ikH1Wrg=="
+            },
+            {
+                "name": "x-amz-cf-pop",
+                "value": "SFO53-P5"
+            },
+            {
+                "name": "x-cache",
+                "value": "Hit from cloudfront"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "c.amazon-adsystem.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/cdn/prod/config?src=3030&u=https%3A%2F%2Fwww.nytimes.com"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "ad-id=A6ITnTHosUlZsK2smQIb9Pc; ad-privacy=0"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://aax.amazon-adsystem.com/e/dtb/bid?src=3030&u=https%3A%2F%2Fwww.nytimes.com%2F&pr=https%3A%2F%2Fwww.google.com%2F&pid=c351ERCil6tVu&cb=0&ws=790x821&v=23.612.1758&t=2000&slots=%5B%7B%22sd%22%3A%22dfp-ad-top%22%2C%22s%22%3A%5B%22728x90%22%2C%22970x90%22%2C%22970x250%22%5D%2C%22sn%22%3A%22dfp-ad-top_hp_web%22%7D%2C%7B%22sd%22%3A%22top%22%2C%22s%22%3A%5B%22728x90%22%2C%22970x90%22%2C%22970x250%22%5D%2C%22sn%22%3A%22top_hp_web%22%7D%5D&pj=%7B%22si_section%22%3A%22home%22%7D&cfgv=1&gdprl=%7B%22status%22%3A%22no-cmp%22%7D",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "access-control-allow-credentials",
+                "value": "true"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "content-length",
+                "value": "807"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript;charset=UTF-8"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:11:21 GMT"
+            },
+            {
+                "name": "server",
+                "value": "Server"
+            },
+            {
+                "name": "strict-transport-security",
+                "value": "max-age=47474747; includeSubDomains; preload"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding,User-Agent"
+            },
+            {
+                "name": "via",
+                "value": "1.1 86364f3fbc9271997968ac61fea44a02.cloudfront.net (CloudFront)"
+            },
+            {
+                "name": "x-amz-cf-id",
+                "value": "UbvWBNBrLKvsTkBG2ikvJQ55occxBhfhgG-M-OP0tPbc2Iv4cGGKrA=="
+            },
+            {
+                "name": "x-amz-cf-pop",
+                "value": "SFO53-P2"
+            },
+            {
+                "name": "x-amz-rid",
+                "value": "9JE3Q76F23X44FZMKE4Z"
+            },
+            {
+                "name": "x-cache",
+                "value": "Miss from cloudfront"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "aax.amazon-adsystem.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/e/dtb/bid?src=3030&u=https%3A%2F%2Fwww.nytimes.com%2F&pr=https%3A%2F%2Fwww.google.com%2F&pid=c351ERCil6tVu&cb=0&ws=790x821&v=23.612.1758&t=2000&slots=%5B%7B%22sd%22%3A%22dfp-ad-top%22%2C%22s%22%3A%5B%22728x90%22%2C%22970x90%22%2C%22970x250%22%5D%2C%22sn%22%3A%22dfp-ad-top_hp_web%22%7D%2C%7B%22sd%22%3A%22top%22%2C%22s%22%3A%5B%22728x90%22%2C%22970x90%22%2C%22970x250%22%5D%2C%22sn%22%3A%22top_hp_web%22%7D%5D&pj=%7B%22si_section%22%3A%22home%22%7D&cfgv=1&gdprl=%7B%22status%22%3A%22no-cmp%22%7D"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "ad-id=A6ITnTHosUlZsK2smQIb9Pc; ad-privacy=0"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "application/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "access-control-allow-methods",
+                "value": "GET"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "access-control-max-age",
+                "value": "3000"
+            },
+            {
+                "name": "age",
+                "value": "48285"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=86400"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "content-type",
+                "value": "application/javascript"
+            },
+            {
+                "name": "date",
+                "value": "Sat, 08 Jul 2023 12:46:36 GMT"
+            },
+            {
+                "name": "etag",
+                "value": "W/\"a4d296427fc806b21335359e398c025c\""
+            },
+            {
+                "name": "last-modified",
+                "value": "Sat, 24 Jun 2023 09:19:11 GMT"
+            },
+            {
+                "name": "server",
+                "value": "AmazonS3"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding,Origin"
+            },
+            {
+                "name": "via",
+                "value": "1.1 8cd8685b0adba2bf9ff8d080d6463d56.cloudfront.net (CloudFront)"
+            },
+            {
+                "name": "x-amz-cf-id",
+                "value": "mClQZZG2J8ttPW8biOB5V3LRL_nb4Qr_IZL8MHs--Mv8_OaZX3lIlQ=="
+            },
+            {
+                "name": "x-amz-cf-pop",
+                "value": "SFO53-P5"
+            },
+            {
+                "name": "x-amz-server-side-encryption",
+                "value": "AES256"
+            },
+            {
+                "name": "x-amz-version-id",
+                "value": "rBtfgJUMGYsy5fZuQwMAU7hSD.fVdF76"
+            },
+            {
+                "name": "x-cache",
+                "value": "Hit from cloudfront"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "c.amazon-adsystem.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/bao-csm/aps-comm/aps_csm.js"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "if-modified-since",
+                "value": "Sat, 24 Jun 2023 09:19:11 GMT"
+            },
+            {
+                "name": "if-none-match",
+                "value": "W/\"a4d296427fc806b21335359e398c025c\""
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202306290101/pubads_impl.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "age",
+                "value": "47590"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, immutable, max-age=31536000"
+            },
+            {
+                "name": "content-disposition",
+                "value": "attachment; filename=\"f.txt\""
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "content-length",
+                "value": "127464"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript; charset=UTF-8"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Sat, 08 Jul 2023 12:58:12 GMT"
+            },
+            {
+                "name": "etag",
+                "value": "4704578582152062329"
+            },
+            {
+                "name": "expires",
+                "value": "Sun, 07 Jul 2024 12:58:12 GMT"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\""
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "securepubads.g.doubleclick.net"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/pagead/managed/js/gpt/m202306290101/pubads_impl.js"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "DSID=AJ0cbrkcRt72YmRvxLYAgHpyq40F6-yImuI-fxyBNo7KqlhKgb_mUBLzwxPK9GVcHyFXvKlpS4BBbbrnhbxyUDHHZfS6eVzPHbjlRv85QcVhkJfqzUIXo2yTRy3Ol0Xk_A56EyIbIda4Ygoq5RW77djqvYXzIGV3k3nPhTF4d3WDsXZuNaucbF6SIxHRByHlWz_leOkPDddztBb2hH0BwqaTdpiCnRAEodoGYgRrM0SSyo9jJHnAbFWfBWqtVS3PNZ6RoLW3bYtwipwufAuiGGXmqzc_OavHBu08d8_j674-oa4sxzDpWfo; IDE=AHWqTUkru9eWPbBsDuvIEyQMh5nwcSApsus1goS3nLw8dGcJrR0c5_7xIgohpLUXwAU"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "script"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
+            }
+        ]
+    },
+    {
+        "url": "https://5290727.fls.doubleclick.net/activityi;src=5290727;type=allpa0;cat=nyti-0;ord=1;num=8872464526853;gtm=45He3750;auiddc=1977500331.1687885165;u17=https%3A%2F%2Fwww.nytimes.com%2F;u5=;u18=anon;uaa=x86;uab=64;uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.133%7CGoogle%2520Chrome%3B114.0.5735.133;uam=;uamb=0;uap=macOS;uapv=13.4.1;uaw=0;~oref=https%3A%2F%2Fwww.nytimes.com%2F?",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/html",
+        "status": 302,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "cache-control",
+                "value": "no-cache, must-revalidate"
+            },
+            {
+                "name": "content-length",
+                "value": "0"
+            },
+            {
+                "name": "content-type",
+                "value": "text/html; charset=UTF-8"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:11:22 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Fri, 01 Jan 1990 00:00:00 GMT"
+            },
+            {
+                "name": "follow-only-when-prerender-shown",
+                "value": "1"
+            },
+            {
+                "name": "location",
+                "value": "https://5290727.fls.doubleclick.net/activityi;dc_pre=CPiAqY_GgIADFaYBRAgdcdYEYg;src=5290727;type=allpa0;cat=nyti-0;ord=1;num=8872464526853;gtm=45He3750;auiddc=1977500331.1687885165;u17=https%3A%2F%2Fwww.nytimes.com%2F;u5=;u18=anon;uaa=x86;uab=64;uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.133%7CGoogle%2520Chrome%3B114.0.5735.133;uam=;uamb=0;uap=macOS;uapv=13.4.1;uaw=0;~oref=https%3A%2F%2Fwww.nytimes.com%2F?"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\""
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "strict-transport-security",
+                "value": "max-age=21600"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "5290727.fls.doubleclick.net"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/activityi;src=5290727;type=allpa0;cat=nyti-0;ord=1;num=8872464526853;gtm=45He3750;auiddc=1977500331.1687885165;u17=https%3A%2F%2Fwww.nytimes.com%2F;u5=;u18=anon;uaa=x86;uab=64;uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.133%7CGoogle%2520Chrome%3B114.0.5735.133;uam=;uamb=0;uap=macOS;uapv=13.4.1;uaw=0;~oref=https%3A%2F%2Fwww.nytimes.com%2F?"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "DSID=AJ0cbrkcRt72YmRvxLYAgHpyq40F6-yImuI-fxyBNo7KqlhKgb_mUBLzwxPK9GVcHyFXvKlpS4BBbbrnhbxyUDHHZfS6eVzPHbjlRv85QcVhkJfqzUIXo2yTRy3Ol0Xk_A56EyIbIda4Ygoq5RW77djqvYXzIGV3k3nPhTF4d3WDsXZuNaucbF6SIxHRByHlWz_leOkPDddztBb2hH0BwqaTdpiCnRAEodoGYgRrM0SSyo9jJHnAbFWfBWqtVS3PNZ6RoLW3bYtwipwufAuiGGXmqzc_OavHBu08d8_j674-oa4sxzDpWfo; IDE=AHWqTUkru9eWPbBsDuvIEyQMh5nwcSApsus1goS3nLw8dGcJrR0c5_7xIgohpLUXwAU"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "iframe"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "navigate"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "upgrade-insecure-requests",
+                "value": "1"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
+            }
+        ]
+    },
+    {
+        "url": "https://5290727.fls.doubleclick.net/activityi;dc_pre=CPiAqY_GgIADFaYBRAgdcdYEYg;src=5290727;type=allpa0;cat=nyti-0;ord=1;num=8872464526853;gtm=45He3750;auiddc=1977500331.1687885165;u17=https%3A%2F%2Fwww.nytimes.com%2F;u5=;u18=anon;uaa=x86;uab=64;uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.133%7CGoogle%2520Chrome%3B114.0.5735.133;uam=;uamb=0;uap=macOS;uapv=13.4.1;uaw=0;~oref=https%3A%2F%2Fwww.nytimes.com%2F?",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/html",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "cache-control",
+                "value": "private, max-age=0"
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "content-length",
+                "value": "341"
+            },
+            {
+                "name": "content-type",
+                "value": "text/html; charset=UTF-8"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:11:22 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Sun, 09 Jul 2023 02:11:22 GMT"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\""
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "strict-transport-security",
+                "value": "max-age=21600"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "5290727.fls.doubleclick.net"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/activityi;dc_pre=CPiAqY_GgIADFaYBRAgdcdYEYg;src=5290727;type=allpa0;cat=nyti-0;ord=1;num=8872464526853;gtm=45He3750;auiddc=1977500331.1687885165;u17=https%3A%2F%2Fwww.nytimes.com%2F;u5=;u18=anon;uaa=x86;uab=64;uafvl=Not.A%252FBrand%3B8.0.0.0%7CChromium%3B114.0.5735.133%7CGoogle%2520Chrome%3B114.0.5735.133;uam=;uamb=0;uap=macOS;uapv=13.4.1;uaw=0;~oref=https%3A%2F%2Fwww.nytimes.com%2F?"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "DSID=AJ0cbrkcRt72YmRvxLYAgHpyq40F6-yImuI-fxyBNo7KqlhKgb_mUBLzwxPK9GVcHyFXvKlpS4BBbbrnhbxyUDHHZfS6eVzPHbjlRv85QcVhkJfqzUIXo2yTRy3Ol0Xk_A56EyIbIda4Ygoq5RW77djqvYXzIGV3k3nPhTF4d3WDsXZuNaucbF6SIxHRByHlWz_leOkPDddztBb2hH0BwqaTdpiCnRAEodoGYgRrM0SSyo9jJHnAbFWfBWqtVS3PNZ6RoLW3bYtwipwufAuiGGXmqzc_OavHBu08d8_j674-oa4sxzDpWfo; IDE=AHWqTUkru9eWPbBsDuvIEyQMh5nwcSApsus1goS3nLw8dGcJrR0c5_7xIgohpLUXwAU"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "iframe"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "navigate"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "upgrade-insecure-requests",
+                "value": "1"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
+            }
+        ]
+    },
+    {
+        "url": "https://aax.amazon-adsystem.com/e/dtb/bid?src=3030&u=https%3A%2F%2Fwww.nytimes.com%2F&pr=https%3A%2F%2Fwww.google.com%2F&pid=c351ERCil6tVu&cb=1&ws=790x821&v=23.612.1758&t=2000&slots=%5B%7B%22sd%22%3A%22dfp-ad-top%22%2C%22s%22%3A%5B%22728x90%22%5D%2C%22sn%22%3A%22dfp-ad-top_hp_web%22%7D%5D&pj=%7B%22si_section%22%3A%22home%22%7D&cfgv=1&gdprl=%7B%22status%22%3A%22no-cmp%22%7D",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "x-unknown",
+        "status": 0,
+        "status_text": "",
+        "headers": [],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "aax.amazon-adsystem.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/e/dtb/bid?src=3030&u=https%3A%2F%2Fwww.nytimes.com%2F&pr=https%3A%2F%2Fwww.google.com%2F&pid=c351ERCil6tVu&cb=1&ws=790x821&v=23.612.1758&t=2000&slots=%5B%7B%22sd%22%3A%22dfp-ad-top%22%2C%22s%22%3A%5B%22728x90%22%5D%2C%22sn%22%3A%22dfp-ad-top_hp_web%22%7D%5D&pj=%7B%22si_section%22%3A%22home%22%7D&cfgv=1&gdprl=%7B%22status%22%3A%22no-cmp%22%7D"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "ad-id=A6ITnTHosUlZsK2smQIb9Pc; ad-privacy=0"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://aax.amazon-adsystem.com/e/dtb/bid?src=3030&u=https%3A%2F%2Fwww.nytimes.com%2F&pr=https%3A%2F%2Fwww.google.com%2F&pid=c351ERCil6tVu&cb=2&ws=790x821&v=23.612.1758&t=2000&slots=%5B%7B%22sd%22%3A%22dfp-ad-mid1%22%2C%22s%22%3A%5B%22300x250%22%2C%22728x90%22%5D%2C%22sn%22%3A%22dfp-ad-mid1_hp_web%22%7D%5D&pj=%7B%22si_section%22%3A%22home%22%7D&cfgv=1&gdprl=%7B%22status%22%3A%22no-cmp%22%7D",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "x-unknown",
+        "status": 0,
+        "status_text": "",
+        "headers": [],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "aax.amazon-adsystem.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/e/dtb/bid?src=3030&u=https%3A%2F%2Fwww.nytimes.com%2F&pr=https%3A%2F%2Fwww.google.com%2F&pid=c351ERCil6tVu&cb=2&ws=790x821&v=23.612.1758&t=2000&slots=%5B%7B%22sd%22%3A%22dfp-ad-mid1%22%2C%22s%22%3A%5B%22300x250%22%2C%22728x90%22%5D%2C%22sn%22%3A%22dfp-ad-mid1_hp_web%22%7D%5D&pj=%7B%22si_section%22%3A%22home%22%7D&cfgv=1&gdprl=%7B%22status%22%3A%22no-cmp%22%7D"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "ad-id=A6ITnTHosUlZsK2smQIb9Pc; ad-privacy=0"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://aax.amazon-adsystem.com/e/dtb/bid?src=3030&u=https%3A%2F%2Fwww.nytimes.com%2F&pr=https%3A%2F%2Fwww.google.com%2F&pid=c351ERCil6tVu&cb=3&ws=790x821&v=23.612.1758&t=2000&slots=%5B%7B%22sd%22%3A%22dfp-ad-mid2%22%2C%22s%22%3A%5B%22300x250%22%2C%22728x90%22%5D%2C%22sn%22%3A%22dfp-ad-mid2_hp_web%22%7D%5D&pj=%7B%22si_section%22%3A%22home%22%7D&cfgv=1&gdprl=%7B%22status%22%3A%22no-cmp%22%7D",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "x-unknown",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "access-control-allow-credentials",
+                "value": "true"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "content-length",
+                "value": "494"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript;charset=UTF-8"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:11:23 GMT"
+            },
+            {
+                "name": "server",
+                "value": "Server"
+            },
+            {
+                "name": "strict-transport-security",
+                "value": "max-age=47474747; includeSubDomains; preload"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding,User-Agent"
+            },
+            {
+                "name": "via",
+                "value": "1.1 86364f3fbc9271997968ac61fea44a02.cloudfront.net (CloudFront)"
+            },
+            {
+                "name": "x-amz-cf-id",
+                "value": "6wdbmSSJIIOQ2nBZ9-U5hbNAEq9QsRAoDOfJUXFcupGA6gObL9vx8g=="
+            },
+            {
+                "name": "x-amz-cf-pop",
+                "value": "SFO53-P2"
+            },
+            {
+                "name": "x-amz-rid",
+                "value": "DJWZFWRASWPHYFKQFF4V"
+            },
+            {
+                "name": "x-cache",
+                "value": "Miss from cloudfront"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "aax.amazon-adsystem.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/e/dtb/bid?src=3030&u=https%3A%2F%2Fwww.nytimes.com%2F&pr=https%3A%2F%2Fwww.google.com%2F&pid=c351ERCil6tVu&cb=3&ws=790x821&v=23.612.1758&t=2000&slots=%5B%7B%22sd%22%3A%22dfp-ad-mid2%22%2C%22s%22%3A%5B%22300x250%22%2C%22728x90%22%5D%2C%22sn%22%3A%22dfp-ad-mid2_hp_web%22%7D%5D&pj=%7B%22si_section%22%3A%22home%22%7D&cfgv=1&gdprl=%7B%22status%22%3A%22no-cmp%22%7D"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "ad-id=A6ITnTHosUlZsK2smQIb9Pc; ad-privacy=0"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://aax.amazon-adsystem.com/e/dtb/bid?src=3030&u=https%3A%2F%2Fwww.nytimes.com%2F&pr=https%3A%2F%2Fwww.google.com%2F&pid=c351ERCil6tVu&cb=4&ws=790x821&v=23.612.1758&t=2000&slots=%5B%7B%22sd%22%3A%22dfp-ad-mid3%22%2C%22s%22%3A%5B%22300x250%22%2C%22728x90%22%5D%2C%22sn%22%3A%22dfp-ad-mid3_hp_web%22%7D%5D&pj=%7B%22si_section%22%3A%22home%22%7D&cfgv=1&gdprl=%7B%22status%22%3A%22no-cmp%22%7D",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "x-unknown",
+        "status": 0,
+        "status_text": "",
+        "headers": [],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "aax.amazon-adsystem.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/e/dtb/bid?src=3030&u=https%3A%2F%2Fwww.nytimes.com%2F&pr=https%3A%2F%2Fwww.google.com%2F&pid=c351ERCil6tVu&cb=4&ws=790x821&v=23.612.1758&t=2000&slots=%5B%7B%22sd%22%3A%22dfp-ad-mid3%22%2C%22s%22%3A%5B%22300x250%22%2C%22728x90%22%5D%2C%22sn%22%3A%22dfp-ad-mid3_hp_web%22%7D%5D&pj=%7B%22si_section%22%3A%22home%22%7D&cfgv=1&gdprl=%7B%22status%22%3A%22no-cmp%22%7D"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "ad-id=A6ITnTHosUlZsK2smQIb9Pc; ad-privacy=0"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://aax.amazon-adsystem.com/e/dtb/bid?src=3030&u=https%3A%2F%2Fwww.nytimes.com%2F&pr=https%3A%2F%2Fwww.google.com%2F&pid=c351ERCil6tVu&cb=5&ws=790x821&v=23.612.1758&t=2000&slots=%5B%7B%22sd%22%3A%22dfp-ad-bottom%22%2C%22s%22%3A%5B%22300x250%22%2C%22728x90%22%5D%2C%22sn%22%3A%22dfp-ad-bottom_hp_web%22%7D%5D&pj=%7B%22si_section%22%3A%22home%22%7D&cfgv=1&gdprl=%7B%22status%22%3A%22no-cmp%22%7D",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "x-unknown",
+        "status": 0,
+        "status_text": "",
+        "headers": [],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "aax.amazon-adsystem.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/e/dtb/bid?src=3030&u=https%3A%2F%2Fwww.nytimes.com%2F&pr=https%3A%2F%2Fwww.google.com%2F&pid=c351ERCil6tVu&cb=5&ws=790x821&v=23.612.1758&t=2000&slots=%5B%7B%22sd%22%3A%22dfp-ad-bottom%22%2C%22s%22%3A%5B%22300x250%22%2C%22728x90%22%5D%2C%22sn%22%3A%22dfp-ad-bottom_hp_web%22%7D%5D&pj=%7B%22si_section%22%3A%22home%22%7D&cfgv=1&gdprl=%7B%22status%22%3A%22no-cmp%22%7D"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "ad-id=A6ITnTHosUlZsK2smQIb9Pc; ad-privacy=0"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://aax.amazon-adsystem.com/e/dtb/bid?src=3030&u=https%3A%2F%2Fwww.nytimes.com%2F&pr=https%3A%2F%2Fwww.google.com%2F&pid=c351ERCil6tVu&cb=6&ws=790x821&v=23.612.1758&t=2000&slots=%5B%7B%22sd%22%3A%22dfp-ad-mid4%22%2C%22s%22%3A%5B%22300x250%22%2C%22728x90%22%5D%2C%22sn%22%3A%22dfp-ad-mid4_hp_web%22%7D%5D&pj=%7B%22si_section%22%3A%22home%22%7D&cfgv=1&gdprl=%7B%22status%22%3A%22no-cmp%22%7D",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "x-unknown",
+        "status": 0,
+        "status_text": "",
+        "headers": [],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "aax.amazon-adsystem.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/e/dtb/bid?src=3030&u=https%3A%2F%2Fwww.nytimes.com%2F&pr=https%3A%2F%2Fwww.google.com%2F&pid=c351ERCil6tVu&cb=6&ws=790x821&v=23.612.1758&t=2000&slots=%5B%7B%22sd%22%3A%22dfp-ad-mid4%22%2C%22s%22%3A%5B%22300x250%22%2C%22728x90%22%5D%2C%22sn%22%3A%22dfp-ad-mid4_hp_web%22%7D%5D&pj=%7B%22si_section%22%3A%22home%22%7D&cfgv=1&gdprl=%7B%22status%22%3A%22no-cmp%22%7D"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "ad-id=A6ITnTHosUlZsK2smQIb9Pc; ad-privacy=0"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=598149304782755&correlator=325331258986503&eid=31075761%2C44777897%2C31075149&output=ldjh&gdfp_req=1&vrg=202306290101&ptt=17&impl=fif&iu_parts=29390238%2Cnyt%2Chomepage&enc_prev_ius=%2F0%2F1%2F2&prev_iu_szs=320x50%7C728x90%7C1605x300&fluid=height&ifi=1&adks=555271088&sfv=1-0-40&prev_scp=div%3Ddfp-ad-top%26pos%3Dtop%26amzniid%3DJLrzLstbZQdOZnCXNb_Q4bAAAAGJOGr2bwYAAAvWAQBhcHNfdHhuX2JpZDEgICBhcHNfdHhuX2ltcDEgICBZfUm1%26amznp%3D1p0y1hc%26amznsz%3D728x90%26amznbid%3D1ikphc0%26hb_format_appnexus%3Dbanner%26hb_size_appnexus%3D728x90%26hb_pb_appnexus%3D0.55%26hb_adid_appnexus%3D47e6d49f9379a7d%26hb_bidder_appnexus%3Dappnexus%26hb_format_openx%3Dbanner%26hb_size_openx%3D728x90%26hb_pb_openx%3D2.35%26hb_adid_openx%3D424c74bc0458446%26hb_bidder_openx%3Dopenx%26hb_format_medianet%3Dbanner%26hb_size_medianet%3D728x90%26hb_pb_medianet%3D1.80%26hb_adid_medianet%3D37774b582576be3%26hb_bidder_medianet%3Dmedianet%26hb_format_rubicon%3Dbanner%26hb_size_rubicon%3D728x90%26hb_pb_rubicon%3D1.00%26hb_adid_rubicon%3D353695630eddf92%26hb_bidder_rubicon%3Drubicon%26hb_format_triplelift%3Dbanner%26hb_size_triplelift%3D728x90%26hb_pb_triplelift%3D1.15%26hb_adid_triplelift%3D3370f4c8ccb2e1c%26hb_bidder_triplelift%3Dtriplelift%26hb_format%3Dbanner%26hb_deal_openx%3DOX-XPA-g98wav%26hb_deal%3DOX-XPA-g98wav%26hb_size%3D728x90%26hb_pb%3D2.35%26hb_adid%3D424c74bc0458446%26hb_bidder%3Dopenx%26request_time%3D2808&cust_params=als_test_clientside%3Dweb_bigtable_none_20230709021120%26mktg%3Dtype_anon%252Clogf%252Cabf%26bt%3D133161%252C270%252C132673%252C132631%252C497%252C132677%252C131953%252C132406%252C282%252C132316%252C132362%252C132361%252C132629%26sub%3Danon%26edn%3Dus%26test%3Dprojectvi%26ver%3Dvi%26typ%3Dhp%26prop%3Dnyt%26plat%3Dweb%26topRef%3Dhttps%253A%252F%252Fwww.google.com%252F%26abra_dfp%3Dmkt_dfp_hd_paywall_zip_1_zip%252Cdfp_messaging_flexframe_ctr_0_control%252Cdfp_liveads_0323_2_4repupdates%252Cdfp_als_home_1_als%252Cdfp_als_1_als%252Cdfp_adslot4v2_1_external%252Cdfp_adrefresh_0123_0_control%26sov%3D3%26page_view_id%3DRdU7_48l5Bb0UoIZZqjbdkZI%26purr%3Dfull%26vp%3Dmedium%26uap%3Dbrowser%26aid%3DqTDtZ6b55X-2fQnBOTUabz%26gscat%3Dgv_safe%252Cneg_ibmtest%252Cneg_citi_aa%252Cneg_chanel%252Cneg_chan2%252Cneg_gg1%252Cneg_capitalone%252Cneg_ibm%252Cneg_mastercard%252Cneg_bofa%252Cneg_gg2%252Cneg_google%252Cneg_hms%252Cneg_rchmt%252Cpolitics_sentiment%252Cneg_debeer%252Cneg_racism%252Cneg_hearts%252Cneg_bp%252Cneg_ms_safe%252Cneg_mtb%252Cgs_science_geography%252Cgs_fooddrink%252Cgs_politics%252Cgs_auto%252Cgs_news_and_weather%252Cgs_politics_misc%252Cgs_politics_issues_policy%252Cgs_busfin_economy%252Cgb_death_injury_high_med%252Cgb_death_injury_high_med_low%252Cgb_death_injury_news-ent%252Cgs_t%26ledemedsz%3Dnone%26artlen%3Dshort%26brandsensitive%3Dfalse&sc=1&cookie=ID%3Dc27a5b7830d63cda%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaBUy3rkq-2shKfNHcFr7JvDBv0Ww&gpic=UID%3D0000099e3d3f9d3d%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaiaPLKnlokk1DnjAzH0QUPgdW13A&abxe=1&dt=1688868683078&lmt=1688868664&dlt=1688868680044&idt=2760&adxs=0&adys=15&biw=790&bih=821&scr_x=0&scr_y=0&btvi=0&ucis=1&oid=2&u_his=5&u_h=900&u_w=1440&u_ah=900&u_aw=1440&u_cd=30&u_sd=2&u_tz=-420&dmc=8&bc=31&uach=WyJtYWNPUyIsIjEzLjQuMSIsIng4NiIsIiIsIjExNC4wLjU3MzUuMTMzIixbXSwwLG51bGwsIjY0IixbWyJOb3QuQS9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTE0LjAuNTczNS4xMzMiXSxbIkdvb2dsZSBDaHJvbWUiLCIxMTQuMC41NzM1LjEzMyJdXSwwXQ..&nvt=1&url=https%3A%2F%2Fwww.nytimes.com%2F&ref=https%3A%2F%2Fwww.google.com%2F&frm=20&vis=1&psz=790x0&msz=790x0&fws=4&ohw=790&ga_vid=907519788.1688868683&ga_sid=1688868683&ga_hid=102874825&ga_fc=false",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "x-unknown",
+        "status": 0,
+        "status_text": "",
+        "headers": [],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "securepubads.g.doubleclick.net"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/gampad/ads?pvsid=598149304782755&correlator=325331258986503&eid=31075761%2C44777897%2C31075149&output=ldjh&gdfp_req=1&vrg=202306290101&ptt=17&impl=fif&iu_parts=29390238%2Cnyt%2Chomepage&enc_prev_ius=%2F0%2F1%2F2&prev_iu_szs=320x50%7C728x90%7C1605x300&fluid=height&ifi=1&adks=555271088&sfv=1-0-40&prev_scp=div%3Ddfp-ad-top%26pos%3Dtop%26amzniid%3DJLrzLstbZQdOZnCXNb_Q4bAAAAGJOGr2bwYAAAvWAQBhcHNfdHhuX2JpZDEgICBhcHNfdHhuX2ltcDEgICBZfUm1%26amznp%3D1p0y1hc%26amznsz%3D728x90%26amznbid%3D1ikphc0%26hb_format_appnexus%3Dbanner%26hb_size_appnexus%3D728x90%26hb_pb_appnexus%3D0.55%26hb_adid_appnexus%3D47e6d49f9379a7d%26hb_bidder_appnexus%3Dappnexus%26hb_format_openx%3Dbanner%26hb_size_openx%3D728x90%26hb_pb_openx%3D2.35%26hb_adid_openx%3D424c74bc0458446%26hb_bidder_openx%3Dopenx%26hb_format_medianet%3Dbanner%26hb_size_medianet%3D728x90%26hb_pb_medianet%3D1.80%26hb_adid_medianet%3D37774b582576be3%26hb_bidder_medianet%3Dmedianet%26hb_format_rubicon%3Dbanner%26hb_size_rubicon%3D728x90%26hb_pb_rubicon%3D1.00%26hb_adid_rubicon%3D353695630eddf92%26hb_bidder_rubicon%3Drubicon%26hb_format_triplelift%3Dbanner%26hb_size_triplelift%3D728x90%26hb_pb_triplelift%3D1.15%26hb_adid_triplelift%3D3370f4c8ccb2e1c%26hb_bidder_triplelift%3Dtriplelift%26hb_format%3Dbanner%26hb_deal_openx%3DOX-XPA-g98wav%26hb_deal%3DOX-XPA-g98wav%26hb_size%3D728x90%26hb_pb%3D2.35%26hb_adid%3D424c74bc0458446%26hb_bidder%3Dopenx%26request_time%3D2808&cust_params=als_test_clientside%3Dweb_bigtable_none_20230709021120%26mktg%3Dtype_anon%252Clogf%252Cabf%26bt%3D133161%252C270%252C132673%252C132631%252C497%252C132677%252C131953%252C132406%252C282%252C132316%252C132362%252C132361%252C132629%26sub%3Danon%26edn%3Dus%26test%3Dprojectvi%26ver%3Dvi%26typ%3Dhp%26prop%3Dnyt%26plat%3Dweb%26topRef%3Dhttps%253A%252F%252Fwww.google.com%252F%26abra_dfp%3Dmkt_dfp_hd_paywall_zip_1_zip%252Cdfp_messaging_flexframe_ctr_0_control%252Cdfp_liveads_0323_2_4repupdates%252Cdfp_als_home_1_als%252Cdfp_als_1_als%252Cdfp_adslot4v2_1_external%252Cdfp_adrefresh_0123_0_control%26sov%3D3%26page_view_id%3DRdU7_48l5Bb0UoIZZqjbdkZI%26purr%3Dfull%26vp%3Dmedium%26uap%3Dbrowser%26aid%3DqTDtZ6b55X-2fQnBOTUabz%26gscat%3Dgv_safe%252Cneg_ibmtest%252Cneg_citi_aa%252Cneg_chanel%252Cneg_chan2%252Cneg_gg1%252Cneg_capitalone%252Cneg_ibm%252Cneg_mastercard%252Cneg_bofa%252Cneg_gg2%252Cneg_google%252Cneg_hms%252Cneg_rchmt%252Cpolitics_sentiment%252Cneg_debeer%252Cneg_racism%252Cneg_hearts%252Cneg_bp%252Cneg_ms_safe%252Cneg_mtb%252Cgs_science_geography%252Cgs_fooddrink%252Cgs_politics%252Cgs_auto%252Cgs_news_and_weather%252Cgs_politics_misc%252Cgs_politics_issues_policy%252Cgs_busfin_economy%252Cgb_death_injury_high_med%252Cgb_death_injury_high_med_low%252Cgb_death_injury_news-ent%252Cgs_t%26ledemedsz%3Dnone%26artlen%3Dshort%26brandsensitive%3Dfalse&sc=1&cookie=ID%3Dc27a5b7830d63cda%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaBUy3rkq-2shKfNHcFr7JvDBv0Ww&gpic=UID%3D0000099e3d3f9d3d%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaiaPLKnlokk1DnjAzH0QUPgdW13A&abxe=1&dt=1688868683078&lmt=1688868664&dlt=1688868680044&idt=2760&adxs=0&adys=15&biw=790&bih=821&scr_x=0&scr_y=0&btvi=0&ucis=1&oid=2&u_his=5&u_h=900&u_w=1440&u_ah=900&u_aw=1440&u_cd=30&u_sd=2&u_tz=-420&dmc=8&bc=31&uach=WyJtYWNPUyIsIjEzLjQuMSIsIng4NiIsIiIsIjExNC4wLjU3MzUuMTMzIixbXSwwLG51bGwsIjY0IixbWyJOb3QuQS9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTE0LjAuNTczNS4xMzMiXSxbIkdvb2dsZSBDaHJvbWUiLCIxMTQuMC41NzM1LjEzMyJdXSwwXQ..&nvt=1&url=https%3A%2F%2Fwww.nytimes.com%2F&ref=https%3A%2F%2Fwww.google.com%2F&frm=20&vis=1&psz=790x0&msz=790x0&fws=4&ohw=790&ga_vid=907519788.1688868683&ga_sid=1688868683&ga_hid=102874825&ga_fc=false"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "DSID=AJ0cbrkcRt72YmRvxLYAgHpyq40F6-yImuI-fxyBNo7KqlhKgb_mUBLzwxPK9GVcHyFXvKlpS4BBbbrnhbxyUDHHZfS6eVzPHbjlRv85QcVhkJfqzUIXo2yTRy3Ol0Xk_A56EyIbIda4Ygoq5RW77djqvYXzIGV3k3nPhTF4d3WDsXZuNaucbF6SIxHRByHlWz_leOkPDddztBb2hH0BwqaTdpiCnRAEodoGYgRrM0SSyo9jJHnAbFWfBWqtVS3PNZ6RoLW3bYtwipwufAuiGGXmqzc_OavHBu08d8_j674-oa4sxzDpWfo; IDE=AHWqTUkru9eWPbBsDuvIEyQMh5nwcSApsus1goS3nLw8dGcJrR0c5_7xIgohpLUXwAU"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
+            }
+        ]
+    },
+    {
+        "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=598149304782755&correlator=325331258986503&eid=31075761%2C44777897%2C31075149&output=ldjh&gdfp_req=1&vrg=202306290101&ptt=17&impl=fif&iu_parts=29390238%2Cnyt%2Chomepage&enc_prev_ius=%2F0%2F1%2F2&prev_iu_szs=320x50%7C728x90%7C300x250%7C1605x300&fluid=height&ifi=2&adks=1821477179&sfv=1-0-40&prev_scp=div%3Ddfp-ad-mid1%26pos%3Dmid1%26amznbid%3D1%26amznp%3D1%26hb_format_appnexus%3Dbanner%26hb_size_appnexus%3D728x90%26hb_pb_appnexus%3D1.30%26hb_adid_appnexus%3D48b5635a2672d68%26hb_bidder_appnexus%3Dappnexus%26hb_format_openx%3Dbanner%26hb_size_openx%3D728x90%26hb_pb_openx%3D2.35%26hb_adid_openx%3D43de81d1cfb28ba%26hb_bidder_openx%3Dopenx%26hb_format_medianet%3Dbanner%26hb_size_medianet%3D728x90%26hb_pb_medianet%3D1.75%26hb_adid_medianet%3D38f429bb6725c8%26hb_bidder_medianet%3Dmedianet%26hb_format_rubicon%3Dbanner%26hb_size_rubicon%3D728x90%26hb_pb_rubicon%3D1.20%26hb_adid_rubicon%3D365b91ff4478467%26hb_bidder_rubicon%3Drubicon%26hb_format%3Dbanner%26hb_size%3D728x90%26hb_pb%3D2.35%26hb_adid%3D43de81d1cfb28ba%26hb_bidder%3Dopenx%26request_time%3D2822&cust_params=als_test_clientside%3Dweb_bigtable_none_20230709021120%26mktg%3Dtype_anon%252Clogf%252Cabf%26bt%3D133161%252C270%252C132673%252C132631%252C497%252C132677%252C131953%252C132406%252C282%252C132316%252C132362%252C132361%252C132629%26sub%3Danon%26edn%3Dus%26test%3Dprojectvi%26ver%3Dvi%26typ%3Dhp%26prop%3Dnyt%26plat%3Dweb%26topRef%3Dhttps%253A%252F%252Fwww.google.com%252F%26abra_dfp%3Dmkt_dfp_hd_paywall_zip_1_zip%252Cdfp_messaging_flexframe_ctr_0_control%252Cdfp_liveads_0323_2_4repupdates%252Cdfp_als_home_1_als%252Cdfp_als_1_als%252Cdfp_adslot4v2_1_external%252Cdfp_adrefresh_0123_0_control%26sov%3D3%26page_view_id%3DRdU7_48l5Bb0UoIZZqjbdkZI%26purr%3Dfull%26vp%3Dmedium%26uap%3Dbrowser%26aid%3DqTDtZ6b55X-2fQnBOTUabz%26gscat%3Dgv_safe%252Cneg_ibmtest%252Cneg_citi_aa%252Cneg_chanel%252Cneg_chan2%252Cneg_gg1%252Cneg_capitalone%252Cneg_ibm%252Cneg_mastercard%252Cneg_bofa%252Cneg_gg2%252Cneg_google%252Cneg_hms%252Cneg_rchmt%252Cpolitics_sentiment%252Cneg_debeer%252Cneg_racism%252Cneg_hearts%252Cneg_bp%252Cneg_ms_safe%252Cneg_mtb%252Cgs_science_geography%252Cgs_fooddrink%252Cgs_politics%252Cgs_auto%252Cgs_news_and_weather%252Cgs_politics_misc%252Cgs_politics_issues_policy%252Cgs_busfin_economy%252Cgb_death_injury_high_med%252Cgb_death_injury_high_med_low%252Cgb_death_injury_news-ent%252Cgs_t%26ledemedsz%3Dnone%26artlen%3Dshort%26brandsensitive%3Dfalse&sc=1&cookie=ID%3Dc27a5b7830d63cda%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaBUy3rkq-2shKfNHcFr7JvDBv0Ww&gpic=UID%3D0000099e3d3f9d3d%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaiaPLKnlokk1DnjAzH0QUPgdW13A&abxe=1&dt=1688868683089&lmt=1688868664&dlt=1688868680044&idt=2760&adxs=0&adys=843&biw=790&bih=821&scr_x=0&scr_y=0&btvi=1&ucis=2&oid=2&u_his=5&u_h=900&u_w=1440&u_ah=900&u_aw=1440&u_cd=30&u_sd=2&u_tz=-420&dmc=8&bc=31&uach=WyJtYWNPUyIsIjEzLjQuMSIsIng4NiIsIiIsIjExNC4wLjU3MzUuMTMzIixbXSwwLG51bGwsIjY0IixbWyJOb3QuQS9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTE0LjAuNTczNS4xMzMiXSxbIkdvb2dsZSBDaHJvbWUiLCIxMTQuMC41NzM1LjEzMyJdXSwwXQ..&nvt=1&url=https%3A%2F%2Fwww.nytimes.com%2F&ref=https%3A%2F%2Fwww.google.com%2F&frm=20&vis=1&psz=790x90&msz=790x0&fws=4&ohw=790&ga_vid=907519788.1688868683&ga_sid=1688868683&ga_hid=102874825&ga_fc=false",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "x-unknown",
+        "status": 0,
+        "status_text": "",
+        "headers": [],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "securepubads.g.doubleclick.net"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/gampad/ads?pvsid=598149304782755&correlator=325331258986503&eid=31075761%2C44777897%2C31075149&output=ldjh&gdfp_req=1&vrg=202306290101&ptt=17&impl=fif&iu_parts=29390238%2Cnyt%2Chomepage&enc_prev_ius=%2F0%2F1%2F2&prev_iu_szs=320x50%7C728x90%7C300x250%7C1605x300&fluid=height&ifi=2&adks=1821477179&sfv=1-0-40&prev_scp=div%3Ddfp-ad-mid1%26pos%3Dmid1%26amznbid%3D1%26amznp%3D1%26hb_format_appnexus%3Dbanner%26hb_size_appnexus%3D728x90%26hb_pb_appnexus%3D1.30%26hb_adid_appnexus%3D48b5635a2672d68%26hb_bidder_appnexus%3Dappnexus%26hb_format_openx%3Dbanner%26hb_size_openx%3D728x90%26hb_pb_openx%3D2.35%26hb_adid_openx%3D43de81d1cfb28ba%26hb_bidder_openx%3Dopenx%26hb_format_medianet%3Dbanner%26hb_size_medianet%3D728x90%26hb_pb_medianet%3D1.75%26hb_adid_medianet%3D38f429bb6725c8%26hb_bidder_medianet%3Dmedianet%26hb_format_rubicon%3Dbanner%26hb_size_rubicon%3D728x90%26hb_pb_rubicon%3D1.20%26hb_adid_rubicon%3D365b91ff4478467%26hb_bidder_rubicon%3Drubicon%26hb_format%3Dbanner%26hb_size%3D728x90%26hb_pb%3D2.35%26hb_adid%3D43de81d1cfb28ba%26hb_bidder%3Dopenx%26request_time%3D2822&cust_params=als_test_clientside%3Dweb_bigtable_none_20230709021120%26mktg%3Dtype_anon%252Clogf%252Cabf%26bt%3D133161%252C270%252C132673%252C132631%252C497%252C132677%252C131953%252C132406%252C282%252C132316%252C132362%252C132361%252C132629%26sub%3Danon%26edn%3Dus%26test%3Dprojectvi%26ver%3Dvi%26typ%3Dhp%26prop%3Dnyt%26plat%3Dweb%26topRef%3Dhttps%253A%252F%252Fwww.google.com%252F%26abra_dfp%3Dmkt_dfp_hd_paywall_zip_1_zip%252Cdfp_messaging_flexframe_ctr_0_control%252Cdfp_liveads_0323_2_4repupdates%252Cdfp_als_home_1_als%252Cdfp_als_1_als%252Cdfp_adslot4v2_1_external%252Cdfp_adrefresh_0123_0_control%26sov%3D3%26page_view_id%3DRdU7_48l5Bb0UoIZZqjbdkZI%26purr%3Dfull%26vp%3Dmedium%26uap%3Dbrowser%26aid%3DqTDtZ6b55X-2fQnBOTUabz%26gscat%3Dgv_safe%252Cneg_ibmtest%252Cneg_citi_aa%252Cneg_chanel%252Cneg_chan2%252Cneg_gg1%252Cneg_capitalone%252Cneg_ibm%252Cneg_mastercard%252Cneg_bofa%252Cneg_gg2%252Cneg_google%252Cneg_hms%252Cneg_rchmt%252Cpolitics_sentiment%252Cneg_debeer%252Cneg_racism%252Cneg_hearts%252Cneg_bp%252Cneg_ms_safe%252Cneg_mtb%252Cgs_science_geography%252Cgs_fooddrink%252Cgs_politics%252Cgs_auto%252Cgs_news_and_weather%252Cgs_politics_misc%252Cgs_politics_issues_policy%252Cgs_busfin_economy%252Cgb_death_injury_high_med%252Cgb_death_injury_high_med_low%252Cgb_death_injury_news-ent%252Cgs_t%26ledemedsz%3Dnone%26artlen%3Dshort%26brandsensitive%3Dfalse&sc=1&cookie=ID%3Dc27a5b7830d63cda%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaBUy3rkq-2shKfNHcFr7JvDBv0Ww&gpic=UID%3D0000099e3d3f9d3d%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaiaPLKnlokk1DnjAzH0QUPgdW13A&abxe=1&dt=1688868683089&lmt=1688868664&dlt=1688868680044&idt=2760&adxs=0&adys=843&biw=790&bih=821&scr_x=0&scr_y=0&btvi=1&ucis=2&oid=2&u_his=5&u_h=900&u_w=1440&u_ah=900&u_aw=1440&u_cd=30&u_sd=2&u_tz=-420&dmc=8&bc=31&uach=WyJtYWNPUyIsIjEzLjQuMSIsIng4NiIsIiIsIjExNC4wLjU3MzUuMTMzIixbXSwwLG51bGwsIjY0IixbWyJOb3QuQS9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTE0LjAuNTczNS4xMzMiXSxbIkdvb2dsZSBDaHJvbWUiLCIxMTQuMC41NzM1LjEzMyJdXSwwXQ..&nvt=1&url=https%3A%2F%2Fwww.nytimes.com%2F&ref=https%3A%2F%2Fwww.google.com%2F&frm=20&vis=1&psz=790x90&msz=790x0&fws=4&ohw=790&ga_vid=907519788.1688868683&ga_sid=1688868683&ga_hid=102874825&ga_fc=false"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "DSID=AJ0cbrkcRt72YmRvxLYAgHpyq40F6-yImuI-fxyBNo7KqlhKgb_mUBLzwxPK9GVcHyFXvKlpS4BBbbrnhbxyUDHHZfS6eVzPHbjlRv85QcVhkJfqzUIXo2yTRy3Ol0Xk_A56EyIbIda4Ygoq5RW77djqvYXzIGV3k3nPhTF4d3WDsXZuNaucbF6SIxHRByHlWz_leOkPDddztBb2hH0BwqaTdpiCnRAEodoGYgRrM0SSyo9jJHnAbFWfBWqtVS3PNZ6RoLW3bYtwipwufAuiGGXmqzc_OavHBu08d8_j674-oa4sxzDpWfo; IDE=AHWqTUkru9eWPbBsDuvIEyQMh5nwcSApsus1goS3nLw8dGcJrR0c5_7xIgohpLUXwAU"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
+            }
+        ]
+    },
+    {
+        "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=598149304782755&correlator=325331258986503&eid=31075761%2C44777897%2C31075149&output=ldjh&gdfp_req=1&vrg=202306290101&ptt=17&impl=fif&iu_parts=29390238%2Cnyt%2Chomepage&enc_prev_ius=%2F0%2F1%2F2&prev_iu_szs=320x50%7C728x90%7C300x250%7C1605x300&fluid=height&ifi=3&adks=2094848675&sfv=1-0-40&prev_scp=div%3Ddfp-ad-mid2%26pos%3Dmid2%26amznbid%3D1%26amznp%3D1%26hb_format_openx%3Dbanner%26hb_size_openx%3D728x90%26hb_pb_openx%3D2.65%26hb_adid_openx%3D44e7b818ea9a78d%26hb_bidder_openx%3Dopenx%26hb_format_medianet%3Dbanner%26hb_size_medianet%3D728x90%26hb_pb_medianet%3D2.55%26hb_adid_medianet%3D391e68dd3a14ffe%26hb_bidder_medianet%3Dmedianet%26hb_format_rubicon%3Dbanner%26hb_size_rubicon%3D728x90%26hb_pb_rubicon%3D1.20%26hb_adid_rubicon%3D56ab0e591a3a192%26hb_bidder_rubicon%3Drubicon%26hb_format_triplelift%3Dbanner%26hb_size_triplelift%3D728x90%26hb_pb_triplelift%3D1.05%26hb_adid_triplelift%3D314a064fd35323d%26hb_bidder_triplelift%3Dtriplelift%26hb_format%3Dbanner%26hb_size%3D728x90%26hb_pb%3D2.65%26hb_adid%3D44e7b818ea9a78d%26hb_bidder%3Dopenx%26request_time%3D2833&cust_params=als_test_clientside%3Dweb_bigtable_none_20230709021120%26mktg%3Dtype_anon%252Clogf%252Cabf%26bt%3D133161%252C270%252C132673%252C132631%252C497%252C132677%252C131953%252C132406%252C282%252C132316%252C132362%252C132361%252C132629%26sub%3Danon%26edn%3Dus%26test%3Dprojectvi%26ver%3Dvi%26typ%3Dhp%26prop%3Dnyt%26plat%3Dweb%26topRef%3Dhttps%253A%252F%252Fwww.google.com%252F%26abra_dfp%3Dmkt_dfp_hd_paywall_zip_1_zip%252Cdfp_messaging_flexframe_ctr_0_control%252Cdfp_liveads_0323_2_4repupdates%252Cdfp_als_home_1_als%252Cdfp_als_1_als%252Cdfp_adslot4v2_1_external%252Cdfp_adrefresh_0123_0_control%26sov%3D3%26page_view_id%3DRdU7_48l5Bb0UoIZZqjbdkZI%26purr%3Dfull%26vp%3Dmedium%26uap%3Dbrowser%26aid%3DqTDtZ6b55X-2fQnBOTUabz%26gscat%3Dgv_safe%252Cneg_ibmtest%252Cneg_citi_aa%252Cneg_chanel%252Cneg_chan2%252Cneg_gg1%252Cneg_capitalone%252Cneg_ibm%252Cneg_mastercard%252Cneg_bofa%252Cneg_gg2%252Cneg_google%252Cneg_hms%252Cneg_rchmt%252Cpolitics_sentiment%252Cneg_debeer%252Cneg_racism%252Cneg_hearts%252Cneg_bp%252Cneg_ms_safe%252Cneg_mtb%252Cgs_science_geography%252Cgs_fooddrink%252Cgs_politics%252Cgs_auto%252Cgs_news_and_weather%252Cgs_politics_misc%252Cgs_politics_issues_policy%252Cgs_busfin_economy%252Cgb_death_injury_high_med%252Cgb_death_injury_high_med_low%252Cgb_death_injury_news-ent%252Cgs_t%26ledemedsz%3Dnone%26artlen%3Dshort%26brandsensitive%3Dfalse&sc=1&cookie=ID%3Dc27a5b7830d63cda%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaBUy3rkq-2shKfNHcFr7JvDBv0Ww&gpic=UID%3D0000099e3d3f9d3d%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaiaPLKnlokk1DnjAzH0QUPgdW13A&abxe=1&dt=1688868683096&lmt=1688868664&dlt=1688868680044&idt=2760&adxs=0&adys=5420&biw=790&bih=821&scr_x=0&scr_y=0&btvi=2&ucis=3&oid=2&u_his=5&u_h=900&u_w=1440&u_ah=900&u_aw=1440&u_cd=30&u_sd=2&u_tz=-420&dmc=8&bc=31&uach=WyJtYWNPUyIsIjEzLjQuMSIsIng4NiIsIiIsIjExNC4wLjU3MzUuMTMzIixbXSwwLG51bGwsIjY0IixbWyJOb3QuQS9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTE0LjAuNTczNS4xMzMiXSxbIkdvb2dsZSBDaHJvbWUiLCIxMTQuMC41NzM1LjEzMyJdXSwwXQ..&nvt=1&url=https%3A%2F%2Fwww.nytimes.com%2F&ref=https%3A%2F%2Fwww.google.com%2F&frm=20&vis=1&psz=790x90&msz=790x0&fws=4&ohw=790&ga_vid=907519788.1688868683&ga_sid=1688868683&ga_hid=102874825&ga_fc=false",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "x-unknown",
+        "status": 0,
+        "status_text": "",
+        "headers": [],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "securepubads.g.doubleclick.net"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/gampad/ads?pvsid=598149304782755&correlator=325331258986503&eid=31075761%2C44777897%2C31075149&output=ldjh&gdfp_req=1&vrg=202306290101&ptt=17&impl=fif&iu_parts=29390238%2Cnyt%2Chomepage&enc_prev_ius=%2F0%2F1%2F2&prev_iu_szs=320x50%7C728x90%7C300x250%7C1605x300&fluid=height&ifi=3&adks=2094848675&sfv=1-0-40&prev_scp=div%3Ddfp-ad-mid2%26pos%3Dmid2%26amznbid%3D1%26amznp%3D1%26hb_format_openx%3Dbanner%26hb_size_openx%3D728x90%26hb_pb_openx%3D2.65%26hb_adid_openx%3D44e7b818ea9a78d%26hb_bidder_openx%3Dopenx%26hb_format_medianet%3Dbanner%26hb_size_medianet%3D728x90%26hb_pb_medianet%3D2.55%26hb_adid_medianet%3D391e68dd3a14ffe%26hb_bidder_medianet%3Dmedianet%26hb_format_rubicon%3Dbanner%26hb_size_rubicon%3D728x90%26hb_pb_rubicon%3D1.20%26hb_adid_rubicon%3D56ab0e591a3a192%26hb_bidder_rubicon%3Drubicon%26hb_format_triplelift%3Dbanner%26hb_size_triplelift%3D728x90%26hb_pb_triplelift%3D1.05%26hb_adid_triplelift%3D314a064fd35323d%26hb_bidder_triplelift%3Dtriplelift%26hb_format%3Dbanner%26hb_size%3D728x90%26hb_pb%3D2.65%26hb_adid%3D44e7b818ea9a78d%26hb_bidder%3Dopenx%26request_time%3D2833&cust_params=als_test_clientside%3Dweb_bigtable_none_20230709021120%26mktg%3Dtype_anon%252Clogf%252Cabf%26bt%3D133161%252C270%252C132673%252C132631%252C497%252C132677%252C131953%252C132406%252C282%252C132316%252C132362%252C132361%252C132629%26sub%3Danon%26edn%3Dus%26test%3Dprojectvi%26ver%3Dvi%26typ%3Dhp%26prop%3Dnyt%26plat%3Dweb%26topRef%3Dhttps%253A%252F%252Fwww.google.com%252F%26abra_dfp%3Dmkt_dfp_hd_paywall_zip_1_zip%252Cdfp_messaging_flexframe_ctr_0_control%252Cdfp_liveads_0323_2_4repupdates%252Cdfp_als_home_1_als%252Cdfp_als_1_als%252Cdfp_adslot4v2_1_external%252Cdfp_adrefresh_0123_0_control%26sov%3D3%26page_view_id%3DRdU7_48l5Bb0UoIZZqjbdkZI%26purr%3Dfull%26vp%3Dmedium%26uap%3Dbrowser%26aid%3DqTDtZ6b55X-2fQnBOTUabz%26gscat%3Dgv_safe%252Cneg_ibmtest%252Cneg_citi_aa%252Cneg_chanel%252Cneg_chan2%252Cneg_gg1%252Cneg_capitalone%252Cneg_ibm%252Cneg_mastercard%252Cneg_bofa%252Cneg_gg2%252Cneg_google%252Cneg_hms%252Cneg_rchmt%252Cpolitics_sentiment%252Cneg_debeer%252Cneg_racism%252Cneg_hearts%252Cneg_bp%252Cneg_ms_safe%252Cneg_mtb%252Cgs_science_geography%252Cgs_fooddrink%252Cgs_politics%252Cgs_auto%252Cgs_news_and_weather%252Cgs_politics_misc%252Cgs_politics_issues_policy%252Cgs_busfin_economy%252Cgb_death_injury_high_med%252Cgb_death_injury_high_med_low%252Cgb_death_injury_news-ent%252Cgs_t%26ledemedsz%3Dnone%26artlen%3Dshort%26brandsensitive%3Dfalse&sc=1&cookie=ID%3Dc27a5b7830d63cda%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaBUy3rkq-2shKfNHcFr7JvDBv0Ww&gpic=UID%3D0000099e3d3f9d3d%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaiaPLKnlokk1DnjAzH0QUPgdW13A&abxe=1&dt=1688868683096&lmt=1688868664&dlt=1688868680044&idt=2760&adxs=0&adys=5420&biw=790&bih=821&scr_x=0&scr_y=0&btvi=2&ucis=3&oid=2&u_his=5&u_h=900&u_w=1440&u_ah=900&u_aw=1440&u_cd=30&u_sd=2&u_tz=-420&dmc=8&bc=31&uach=WyJtYWNPUyIsIjEzLjQuMSIsIng4NiIsIiIsIjExNC4wLjU3MzUuMTMzIixbXSwwLG51bGwsIjY0IixbWyJOb3QuQS9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTE0LjAuNTczNS4xMzMiXSxbIkdvb2dsZSBDaHJvbWUiLCIxMTQuMC41NzM1LjEzMyJdXSwwXQ..&nvt=1&url=https%3A%2F%2Fwww.nytimes.com%2F&ref=https%3A%2F%2Fwww.google.com%2F&frm=20&vis=1&psz=790x90&msz=790x0&fws=4&ohw=790&ga_vid=907519788.1688868683&ga_sid=1688868683&ga_hid=102874825&ga_fc=false"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "DSID=AJ0cbrkcRt72YmRvxLYAgHpyq40F6-yImuI-fxyBNo7KqlhKgb_mUBLzwxPK9GVcHyFXvKlpS4BBbbrnhbxyUDHHZfS6eVzPHbjlRv85QcVhkJfqzUIXo2yTRy3Ol0Xk_A56EyIbIda4Ygoq5RW77djqvYXzIGV3k3nPhTF4d3WDsXZuNaucbF6SIxHRByHlWz_leOkPDddztBb2hH0BwqaTdpiCnRAEodoGYgRrM0SSyo9jJHnAbFWfBWqtVS3PNZ6RoLW3bYtwipwufAuiGGXmqzc_OavHBu08d8_j674-oa4sxzDpWfo; IDE=AHWqTUkru9eWPbBsDuvIEyQMh5nwcSApsus1goS3nLw8dGcJrR0c5_7xIgohpLUXwAU"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
+            }
+        ]
+    },
+    {
+        "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=598149304782755&correlator=325331258986503&eid=31075761%2C44777897%2C31075149&output=ldjh&gdfp_req=1&vrg=202306290101&ptt=17&impl=fif&iu_parts=29390238%2Cnyt%2Chomepage&enc_prev_ius=%2F0%2F1%2F2&prev_iu_szs=320x50%7C728x90%7C300x250%7C1605x300&fluid=height&ifi=4&adks=628127887&sfv=1-0-40&prev_scp=div%3Ddfp-ad-mid3%26pos%3Dmid3%26amznbid%3D1%26amznp%3D1%26hb_format_appnexus%3Dbanner%26hb_size_appnexus%3D728x90%26hb_pb_appnexus%3D0.65%26hb_adid_appnexus%3D49f1a02f442f86%26hb_bidder_appnexus%3Dappnexus%26hb_format_openx%3Dbanner%26hb_size_openx%3D728x90%26hb_pb_openx%3D2.45%26hb_adid_openx%3D45ae4f0f2eedb55%26hb_bidder_openx%3Dopenx%26hb_format_medianet%3Dbanner%26hb_size_medianet%3D728x90%26hb_pb_medianet%3D1.85%26hb_adid_medianet%3D403b748da26b3db%26hb_bidder_medianet%3Dmedianet%26hb_format_rubicon%3Dbanner%26hb_size_rubicon%3D728x90%26hb_pb_rubicon%3D1.15%26hb_adid_rubicon%3D5582dd7e1cb1128%26hb_bidder_rubicon%3Drubicon%26hb_format%3Dbanner%26hb_size%3D728x90%26hb_pb%3D2.45%26hb_adid%3D45ae4f0f2eedb55%26hb_bidder%3Dopenx%26request_time%3D2845&cust_params=als_test_clientside%3Dweb_bigtable_none_20230709021120%26mktg%3Dtype_anon%252Clogf%252Cabf%26bt%3D133161%252C270%252C132673%252C132631%252C497%252C132677%252C131953%252C132406%252C282%252C132316%252C132362%252C132361%252C132629%26sub%3Danon%26edn%3Dus%26test%3Dprojectvi%26ver%3Dvi%26typ%3Dhp%26prop%3Dnyt%26plat%3Dweb%26topRef%3Dhttps%253A%252F%252Fwww.google.com%252F%26abra_dfp%3Dmkt_dfp_hd_paywall_zip_1_zip%252Cdfp_messaging_flexframe_ctr_0_control%252Cdfp_liveads_0323_2_4repupdates%252Cdfp_als_home_1_als%252Cdfp_als_1_als%252Cdfp_adslot4v2_1_external%252Cdfp_adrefresh_0123_0_control%26sov%3D3%26page_view_id%3DRdU7_48l5Bb0UoIZZqjbdkZI%26purr%3Dfull%26vp%3Dmedium%26uap%3Dbrowser%26aid%3DqTDtZ6b55X-2fQnBOTUabz%26gscat%3Dgv_safe%252Cneg_ibmtest%252Cneg_citi_aa%252Cneg_chanel%252Cneg_chan2%252Cneg_gg1%252Cneg_capitalone%252Cneg_ibm%252Cneg_mastercard%252Cneg_bofa%252Cneg_gg2%252Cneg_google%252Cneg_hms%252Cneg_rchmt%252Cpolitics_sentiment%252Cneg_debeer%252Cneg_racism%252Cneg_hearts%252Cneg_bp%252Cneg_ms_safe%252Cneg_mtb%252Cgs_science_geography%252Cgs_fooddrink%252Cgs_politics%252Cgs_auto%252Cgs_news_and_weather%252Cgs_politics_misc%252Cgs_politics_issues_policy%252Cgs_busfin_economy%252Cgb_death_injury_high_med%252Cgb_death_injury_high_med_low%252Cgb_death_injury_news-ent%252Cgs_t%26ledemedsz%3Dnone%26artlen%3Dshort%26brandsensitive%3Dfalse&sc=1&cookie=ID%3Dc27a5b7830d63cda%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaBUy3rkq-2shKfNHcFr7JvDBv0Ww&gpic=UID%3D0000099e3d3f9d3d%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaiaPLKnlokk1DnjAzH0QUPgdW13A&abxe=1&dt=1688868683100&lmt=1688868664&dlt=1688868680044&idt=2760&adxs=0&adys=7825&biw=790&bih=821&scr_x=0&scr_y=0&btvi=3&ucis=4&oid=2&u_his=5&u_h=900&u_w=1440&u_ah=900&u_aw=1440&u_cd=30&u_sd=2&u_tz=-420&dmc=8&bc=31&uach=WyJtYWNPUyIsIjEzLjQuMSIsIng4NiIsIiIsIjExNC4wLjU3MzUuMTMzIixbXSwwLG51bGwsIjY0IixbWyJOb3QuQS9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTE0LjAuNTczNS4xMzMiXSxbIkdvb2dsZSBDaHJvbWUiLCIxMTQuMC41NzM1LjEzMyJdXSwwXQ..&nvt=1&url=https%3A%2F%2Fwww.nytimes.com%2F&ref=https%3A%2F%2Fwww.google.com%2F&frm=20&vis=1&psz=790x90&msz=790x0&fws=4&ohw=790&ga_vid=907519788.1688868683&ga_sid=1688868683&ga_hid=102874825&ga_fc=false",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "x-unknown",
+        "status": 0,
+        "status_text": "",
+        "headers": [],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "securepubads.g.doubleclick.net"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/gampad/ads?pvsid=598149304782755&correlator=325331258986503&eid=31075761%2C44777897%2C31075149&output=ldjh&gdfp_req=1&vrg=202306290101&ptt=17&impl=fif&iu_parts=29390238%2Cnyt%2Chomepage&enc_prev_ius=%2F0%2F1%2F2&prev_iu_szs=320x50%7C728x90%7C300x250%7C1605x300&fluid=height&ifi=4&adks=628127887&sfv=1-0-40&prev_scp=div%3Ddfp-ad-mid3%26pos%3Dmid3%26amznbid%3D1%26amznp%3D1%26hb_format_appnexus%3Dbanner%26hb_size_appnexus%3D728x90%26hb_pb_appnexus%3D0.65%26hb_adid_appnexus%3D49f1a02f442f86%26hb_bidder_appnexus%3Dappnexus%26hb_format_openx%3Dbanner%26hb_size_openx%3D728x90%26hb_pb_openx%3D2.45%26hb_adid_openx%3D45ae4f0f2eedb55%26hb_bidder_openx%3Dopenx%26hb_format_medianet%3Dbanner%26hb_size_medianet%3D728x90%26hb_pb_medianet%3D1.85%26hb_adid_medianet%3D403b748da26b3db%26hb_bidder_medianet%3Dmedianet%26hb_format_rubicon%3Dbanner%26hb_size_rubicon%3D728x90%26hb_pb_rubicon%3D1.15%26hb_adid_rubicon%3D5582dd7e1cb1128%26hb_bidder_rubicon%3Drubicon%26hb_format%3Dbanner%26hb_size%3D728x90%26hb_pb%3D2.45%26hb_adid%3D45ae4f0f2eedb55%26hb_bidder%3Dopenx%26request_time%3D2845&cust_params=als_test_clientside%3Dweb_bigtable_none_20230709021120%26mktg%3Dtype_anon%252Clogf%252Cabf%26bt%3D133161%252C270%252C132673%252C132631%252C497%252C132677%252C131953%252C132406%252C282%252C132316%252C132362%252C132361%252C132629%26sub%3Danon%26edn%3Dus%26test%3Dprojectvi%26ver%3Dvi%26typ%3Dhp%26prop%3Dnyt%26plat%3Dweb%26topRef%3Dhttps%253A%252F%252Fwww.google.com%252F%26abra_dfp%3Dmkt_dfp_hd_paywall_zip_1_zip%252Cdfp_messaging_flexframe_ctr_0_control%252Cdfp_liveads_0323_2_4repupdates%252Cdfp_als_home_1_als%252Cdfp_als_1_als%252Cdfp_adslot4v2_1_external%252Cdfp_adrefresh_0123_0_control%26sov%3D3%26page_view_id%3DRdU7_48l5Bb0UoIZZqjbdkZI%26purr%3Dfull%26vp%3Dmedium%26uap%3Dbrowser%26aid%3DqTDtZ6b55X-2fQnBOTUabz%26gscat%3Dgv_safe%252Cneg_ibmtest%252Cneg_citi_aa%252Cneg_chanel%252Cneg_chan2%252Cneg_gg1%252Cneg_capitalone%252Cneg_ibm%252Cneg_mastercard%252Cneg_bofa%252Cneg_gg2%252Cneg_google%252Cneg_hms%252Cneg_rchmt%252Cpolitics_sentiment%252Cneg_debeer%252Cneg_racism%252Cneg_hearts%252Cneg_bp%252Cneg_ms_safe%252Cneg_mtb%252Cgs_science_geography%252Cgs_fooddrink%252Cgs_politics%252Cgs_auto%252Cgs_news_and_weather%252Cgs_politics_misc%252Cgs_politics_issues_policy%252Cgs_busfin_economy%252Cgb_death_injury_high_med%252Cgb_death_injury_high_med_low%252Cgb_death_injury_news-ent%252Cgs_t%26ledemedsz%3Dnone%26artlen%3Dshort%26brandsensitive%3Dfalse&sc=1&cookie=ID%3Dc27a5b7830d63cda%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaBUy3rkq-2shKfNHcFr7JvDBv0Ww&gpic=UID%3D0000099e3d3f9d3d%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaiaPLKnlokk1DnjAzH0QUPgdW13A&abxe=1&dt=1688868683100&lmt=1688868664&dlt=1688868680044&idt=2760&adxs=0&adys=7825&biw=790&bih=821&scr_x=0&scr_y=0&btvi=3&ucis=4&oid=2&u_his=5&u_h=900&u_w=1440&u_ah=900&u_aw=1440&u_cd=30&u_sd=2&u_tz=-420&dmc=8&bc=31&uach=WyJtYWNPUyIsIjEzLjQuMSIsIng4NiIsIiIsIjExNC4wLjU3MzUuMTMzIixbXSwwLG51bGwsIjY0IixbWyJOb3QuQS9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTE0LjAuNTczNS4xMzMiXSxbIkdvb2dsZSBDaHJvbWUiLCIxMTQuMC41NzM1LjEzMyJdXSwwXQ..&nvt=1&url=https%3A%2F%2Fwww.nytimes.com%2F&ref=https%3A%2F%2Fwww.google.com%2F&frm=20&vis=1&psz=790x90&msz=790x0&fws=4&ohw=790&ga_vid=907519788.1688868683&ga_sid=1688868683&ga_hid=102874825&ga_fc=false"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "DSID=AJ0cbrkcRt72YmRvxLYAgHpyq40F6-yImuI-fxyBNo7KqlhKgb_mUBLzwxPK9GVcHyFXvKlpS4BBbbrnhbxyUDHHZfS6eVzPHbjlRv85QcVhkJfqzUIXo2yTRy3Ol0Xk_A56EyIbIda4Ygoq5RW77djqvYXzIGV3k3nPhTF4d3WDsXZuNaucbF6SIxHRByHlWz_leOkPDddztBb2hH0BwqaTdpiCnRAEodoGYgRrM0SSyo9jJHnAbFWfBWqtVS3PNZ6RoLW3bYtwipwufAuiGGXmqzc_OavHBu08d8_j674-oa4sxzDpWfo; IDE=AHWqTUkru9eWPbBsDuvIEyQMh5nwcSApsus1goS3nLw8dGcJrR0c5_7xIgohpLUXwAU"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
+            }
+        ]
+    },
+    {
+        "url": "https://securepubads.g.doubleclick.net/gampad/ads?pvsid=598149304782755&correlator=325331258986503&eid=31075761%2C44777897%2C31075149&output=ldjh&gdfp_req=1&vrg=202306290101&ptt=17&impl=fif&iu_parts=29390238%2Cnyt%2Chomepage&enc_prev_ius=%2F0%2F1%2F2&prev_iu_szs=320x50%7C728x90%7C300x250%7C1605x300&fluid=height&ifi=5&adks=9747511&sfv=1-0-40&prev_scp=div%3Ddfp-ad-bottom%26pos%3Dbottom%26amznbid%3D1%26amznp%3D1%26hb_format_appnexus%3Dbanner%26hb_size_appnexus%3D728x90%26hb_pb_appnexus%3D0.70%26hb_adid_appnexus%3D50ff3e3577fac49%26hb_bidder_appnexus%3Dappnexus%26hb_format_openx%3Dbanner%26hb_size_openx%3D728x90%26hb_pb_openx%3D1.05%26hb_adid_openx%3D46dfd6312c42047%26hb_bidder_openx%3Dopenx%26hb_format_medianet%3Dbanner%26hb_size_medianet%3D728x90%26hb_pb_medianet%3D1.85%26hb_adid_medianet%3D41752c34a060ed7%26hb_bidder_medianet%3Dmedianet%26hb_format_rubicon%3Dbanner%26hb_size_rubicon%3D728x90%26hb_pb_rubicon%3D2.50%26hb_adid_rubicon%3D3409e58e4b75581%26hb_bidder_rubicon%3Drubicon%26hb_format_triplelift%3Dbanner%26hb_size_triplelift%3D728x90%26hb_pb_triplelift%3D0.65%26hb_adid_triplelift%3D325cabfcbb3ea9f%26hb_bidder_triplelift%3Dtriplelift%26hb_format%3Dbanner%26hb_size%3D728x90%26hb_pb%3D2.50%26hb_adid%3D3409e58e4b75581%26hb_bidder%3Drubicon%26request_time%3D2859&cust_params=als_test_clientside%3Dweb_bigtable_none_20230709021120%26mktg%3Dtype_anon%252Clogf%252Cabf%26bt%3D133161%252C270%252C132673%252C132631%252C497%252C132677%252C131953%252C132406%252C282%252C132316%252C132362%252C132361%252C132629%26sub%3Danon%26edn%3Dus%26test%3Dprojectvi%26ver%3Dvi%26typ%3Dhp%26prop%3Dnyt%26plat%3Dweb%26topRef%3Dhttps%253A%252F%252Fwww.google.com%252F%26abra_dfp%3Dmkt_dfp_hd_paywall_zip_1_zip%252Cdfp_messaging_flexframe_ctr_0_control%252Cdfp_liveads_0323_2_4repupdates%252Cdfp_als_home_1_als%252Cdfp_als_1_als%252Cdfp_adslot4v2_1_external%252Cdfp_adrefresh_0123_0_control%26sov%3D3%26page_view_id%3DRdU7_48l5Bb0UoIZZqjbdkZI%26purr%3Dfull%26vp%3Dmedium%26uap%3Dbrowser%26aid%3DqTDtZ6b55X-2fQnBOTUabz%26gscat%3Dgv_safe%252Cneg_ibmtest%252Cneg_citi_aa%252Cneg_chanel%252Cneg_chan2%252Cneg_gg1%252Cneg_capitalone%252Cneg_ibm%252Cneg_mastercard%252Cneg_bofa%252Cneg_gg2%252Cneg_google%252Cneg_hms%252Cneg_rchmt%252Cpolitics_sentiment%252Cneg_debeer%252Cneg_racism%252Cneg_hearts%252Cneg_bp%252Cneg_ms_safe%252Cneg_mtb%252Cgs_science_geography%252Cgs_fooddrink%252Cgs_politics%252Cgs_auto%252Cgs_news_and_weather%252Cgs_politics_misc%252Cgs_politics_issues_policy%252Cgs_busfin_economy%252Cgb_death_injury_high_med%252Cgb_death_injury_high_med_low%252Cgb_death_injury_news-ent%252Cgs_t%26ledemedsz%3Dnone%26artlen%3Dshort%26brandsensitive%3Dfalse&sc=1&cookie=ID%3Dc27a5b7830d63cda%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaBUy3rkq-2shKfNHcFr7JvDBv0Ww&gpic=UID%3D0000099e3d3f9d3d%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaiaPLKnlokk1DnjAzH0QUPgdW13A&abxe=1&dt=1688868683107&lmt=1688868664&dlt=1688868680044&idt=2760&adxs=0&adys=11677&biw=790&bih=821&scr_x=0&scr_y=0&btvi=4&ucis=5&oid=2&u_his=5&u_h=900&u_w=1440&u_ah=900&u_aw=1440&u_cd=30&u_sd=2&u_tz=-420&dmc=8&bc=31&uach=WyJtYWNPUyIsIjEzLjQuMSIsIng4NiIsIiIsIjExNC4wLjU3MzUuMTMzIixbXSwwLG51bGwsIjY0IixbWyJOb3QuQS9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTE0LjAuNTczNS4xMzMiXSxbIkdvb2dsZSBDaHJvbWUiLCIxMTQuMC41NzM1LjEzMyJdXSwwXQ..&nvt=1&url=https%3A%2F%2Fwww.nytimes.com%2F&ref=https%3A%2F%2Fwww.google.com%2F&frm=20&vis=1&psz=790x90&msz=790x0&fws=4&ohw=790&ga_vid=907519788.1688868683&ga_sid=1688868683&ga_hid=102874825&ga_fc=false",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "x-unknown",
+        "status": 0,
+        "status_text": "",
+        "headers": [],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "securepubads.g.doubleclick.net"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/gampad/ads?pvsid=598149304782755&correlator=325331258986503&eid=31075761%2C44777897%2C31075149&output=ldjh&gdfp_req=1&vrg=202306290101&ptt=17&impl=fif&iu_parts=29390238%2Cnyt%2Chomepage&enc_prev_ius=%2F0%2F1%2F2&prev_iu_szs=320x50%7C728x90%7C300x250%7C1605x300&fluid=height&ifi=5&adks=9747511&sfv=1-0-40&prev_scp=div%3Ddfp-ad-bottom%26pos%3Dbottom%26amznbid%3D1%26amznp%3D1%26hb_format_appnexus%3Dbanner%26hb_size_appnexus%3D728x90%26hb_pb_appnexus%3D0.70%26hb_adid_appnexus%3D50ff3e3577fac49%26hb_bidder_appnexus%3Dappnexus%26hb_format_openx%3Dbanner%26hb_size_openx%3D728x90%26hb_pb_openx%3D1.05%26hb_adid_openx%3D46dfd6312c42047%26hb_bidder_openx%3Dopenx%26hb_format_medianet%3Dbanner%26hb_size_medianet%3D728x90%26hb_pb_medianet%3D1.85%26hb_adid_medianet%3D41752c34a060ed7%26hb_bidder_medianet%3Dmedianet%26hb_format_rubicon%3Dbanner%26hb_size_rubicon%3D728x90%26hb_pb_rubicon%3D2.50%26hb_adid_rubicon%3D3409e58e4b75581%26hb_bidder_rubicon%3Drubicon%26hb_format_triplelift%3Dbanner%26hb_size_triplelift%3D728x90%26hb_pb_triplelift%3D0.65%26hb_adid_triplelift%3D325cabfcbb3ea9f%26hb_bidder_triplelift%3Dtriplelift%26hb_format%3Dbanner%26hb_size%3D728x90%26hb_pb%3D2.50%26hb_adid%3D3409e58e4b75581%26hb_bidder%3Drubicon%26request_time%3D2859&cust_params=als_test_clientside%3Dweb_bigtable_none_20230709021120%26mktg%3Dtype_anon%252Clogf%252Cabf%26bt%3D133161%252C270%252C132673%252C132631%252C497%252C132677%252C131953%252C132406%252C282%252C132316%252C132362%252C132361%252C132629%26sub%3Danon%26edn%3Dus%26test%3Dprojectvi%26ver%3Dvi%26typ%3Dhp%26prop%3Dnyt%26plat%3Dweb%26topRef%3Dhttps%253A%252F%252Fwww.google.com%252F%26abra_dfp%3Dmkt_dfp_hd_paywall_zip_1_zip%252Cdfp_messaging_flexframe_ctr_0_control%252Cdfp_liveads_0323_2_4repupdates%252Cdfp_als_home_1_als%252Cdfp_als_1_als%252Cdfp_adslot4v2_1_external%252Cdfp_adrefresh_0123_0_control%26sov%3D3%26page_view_id%3DRdU7_48l5Bb0UoIZZqjbdkZI%26purr%3Dfull%26vp%3Dmedium%26uap%3Dbrowser%26aid%3DqTDtZ6b55X-2fQnBOTUabz%26gscat%3Dgv_safe%252Cneg_ibmtest%252Cneg_citi_aa%252Cneg_chanel%252Cneg_chan2%252Cneg_gg1%252Cneg_capitalone%252Cneg_ibm%252Cneg_mastercard%252Cneg_bofa%252Cneg_gg2%252Cneg_google%252Cneg_hms%252Cneg_rchmt%252Cpolitics_sentiment%252Cneg_debeer%252Cneg_racism%252Cneg_hearts%252Cneg_bp%252Cneg_ms_safe%252Cneg_mtb%252Cgs_science_geography%252Cgs_fooddrink%252Cgs_politics%252Cgs_auto%252Cgs_news_and_weather%252Cgs_politics_misc%252Cgs_politics_issues_policy%252Cgs_busfin_economy%252Cgb_death_injury_high_med%252Cgb_death_injury_high_med_low%252Cgb_death_injury_news-ent%252Cgs_t%26ledemedsz%3Dnone%26artlen%3Dshort%26brandsensitive%3Dfalse&sc=1&cookie=ID%3Dc27a5b7830d63cda%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaBUy3rkq-2shKfNHcFr7JvDBv0Ww&gpic=UID%3D0000099e3d3f9d3d%3AT%3D1687885160%3ART%3D1688698945%3AS%3DALNI_MaiaPLKnlokk1DnjAzH0QUPgdW13A&abxe=1&dt=1688868683107&lmt=1688868664&dlt=1688868680044&idt=2760&adxs=0&adys=11677&biw=790&bih=821&scr_x=0&scr_y=0&btvi=4&ucis=5&oid=2&u_his=5&u_h=900&u_w=1440&u_ah=900&u_aw=1440&u_cd=30&u_sd=2&u_tz=-420&dmc=8&bc=31&uach=WyJtYWNPUyIsIjEzLjQuMSIsIng4NiIsIiIsIjExNC4wLjU3MzUuMTMzIixbXSwwLG51bGwsIjY0IixbWyJOb3QuQS9CcmFuZCIsIjguMC4wLjAiXSxbIkNocm9taXVtIiwiMTE0LjAuNTczNS4xMzMiXSxbIkdvb2dsZSBDaHJvbWUiLCIxMTQuMC41NzM1LjEzMyJdXSwwXQ..&nvt=1&url=https%3A%2F%2Fwww.nytimes.com%2F&ref=https%3A%2F%2Fwww.google.com%2F&frm=20&vis=1&psz=790x90&msz=790x0&fws=4&ohw=790&ga_vid=907519788.1688868683&ga_sid=1688868683&ga_hid=102874825&ga_fc=false"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "*/*"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "DSID=AJ0cbrkcRt72YmRvxLYAgHpyq40F6-yImuI-fxyBNo7KqlhKgb_mUBLzwxPK9GVcHyFXvKlpS4BBbbrnhbxyUDHHZfS6eVzPHbjlRv85QcVhkJfqzUIXo2yTRy3Ol0Xk_A56EyIbIda4Ygoq5RW77djqvYXzIGV3k3nPhTF4d3WDsXZuNaucbF6SIxHRByHlWz_leOkPDddztBb2hH0BwqaTdpiCnRAEodoGYgRrM0SSyo9jJHnAbFWfBWqtVS3PNZ6RoLW3bYtwipwufAuiGGXmqzc_OavHBu08d8_j674-oa4sxzDpWfo; IDE=AHWqTUkru9eWPbBsDuvIEyQMh5nwcSApsus1goS3nLw8dGcJrR0c5_7xIgohpLUXwAU"
+            },
+            {
+                "name": "origin",
+                "value": "https://www.nytimes.com"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "empty"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
+            }
+        ]
+    },
+    {
+        "url": "https://e7bed4b574fa5de585a5dd6f47e9eb7d.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "x-unknown",
+        "status": 0,
+        "status_text": "",
+        "headers": [],
+        "request_headers": [
+            {
+                "name": "Referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "Upgrade-Insecure-Requests",
+                "value": "1"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://cm.g.doubleclick.net/pixel?google_nid=TheTradeDesk&google_cm&google_sc&google_hm=OWVmZTAwOWItNGFlYS00NTJmLWI5ODMtYjA5MTM0MTc4NjAz&gdpr=0&gdpr_consent=&ttd_tdid=9efe009b-4aea-452f-b983-b09134178603",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "x-unknown",
+        "status": 0,
+        "status_text": "",
+        "headers": [],
+        "request_headers": [
+            {
+                "name": "Referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://nytimes-d.openx.net/w/1.0/pd",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "image/gif",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "cache-control",
+                "value": "private, max-age=0, no-cache"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "content-length",
+                "value": "56"
+            },
+            {
+                "name": "content-type",
+                "value": "image/gif"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:11:25 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Mon, 26 Jul 1997 05:00:00 GMT"
+            },
+            {
+                "name": "p3p",
+                "value": "CP=\"CUR ADM OUR NOR STA NID\""
+            },
+            {
+                "name": "pragma",
+                "value": "no-cache"
+            },
+            {
+                "name": "server",
+                "value": "OXGW/0.0.0"
+            },
+            {
+                "name": "vary",
+                "value": "Accept, Accept-Encoding"
+            },
+            {
+                "name": "via",
+                "value": "1.1 google"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "nytimes-d.openx.net"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/w/1.0/pd"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "i=a377fa30-9452-4f7e-ace7-7d79dcd6a07e|1674167873; univ_id=537072971|9efe009b-4aea-452f-b983-b09134178603|1688617086496843; pd=v2|1688614988.2097.2.81862.9.11.7.6056.163595.16.9|gy.iKbwvPuYvMgahEkWgKg2.wvg6mmwteSvJwrf8vuwi.vR.mK.fY.n8.hAvZnof4csoq.hMs7lwvDvUvE.rZvswwtpsvv5.t1wcwssTw7wgw1lkjgeD"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "image"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://eb2.3lift.com/sync?px=1&src=prebid&",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "image/gif",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "cache-control",
+                "value": "no-cache, no-store, must-revalidate"
+            },
+            {
+                "name": "content-length",
+                "value": "37"
+            },
+            {
+                "name": "content-type",
+                "value": "image/gif"
+            },
+            {
+                "name": "date",
+                "value": "Sun, 09 Jul 2023 02:11:25 GMT"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"http://cdn.3lift.com/w3c/p3p.xml\", CP=\"NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC\""
+            },
+            {
+                "name": "set-cookie",
+                "value": "tluid=4596039404327367381854; Path=/; Domain=.3lift.com; Max-Age=7776000; Expires=Sat, 07 Oct 2023 02:11:25 GMT; Secure; SameSite=None"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "eb2.3lift.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/sync?px=1&src=prebid&"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "sync=CgoIgAIQ5NXNz5IxCgoIgQIQgfyvy5IxCgoIggIQkfi18pIxCgoIgwIQ5M6ezf0wCgoIhwIQiuWvy5IxCgkICRCK5a_LkjEKCQgLEIrlr8uSMQoKCIsCEOTVzc-SMQoKCIwCEIrlr8uSMQoKCI4BEOTVzc-SMQoJCA4Qoby18pIxCgoIjwIQkfi18pIxCgoIkAIQ9aSD0JIxCgoIkQIQiuWvy5IxCgoIkgIQgfyvy5IxCgoIkwIQ6-S08pIxCgoIlAIQgfyvy5IxCgkIFBCn-bXykjEKCgiVAhCR-LXykjEKCgiWAhCD47f6jTEKCgiaARCn-bXykjEKCQgbEIH8r8uSMQoKCJ0CEOTVzc-SMQoKCJ4CEJH4tfKSMQoJCB8QiuWvy5IxCgoInwIQkfi18pIxCgoIoQEQiuWvy5IxCgoIogIQkfi18pIxCgkIJBCR-LXykjEKCginAhCcq73W4DAKCgioAhCn-bXykjEKCgipAhCn-bXykjEKCgiqAhCs7r76jTEKCgirAhCn-bXykjEKCgisAhCB_K_LkjEKCgitAhCB_K_LkjEKCgiuAhCn-bXykjEKCgiwAhDk1c3PkjEKCgixAhCR-LXykjEKCgiyAhCR-LXykjEKCgizAhCn-bXykjEKCgi4ARCR-LXykjEKCQg5EOTVzc-SMQoJCDoQ9dWvypIxCgoIvQEQp_m18pIxCgkIPxC6oLTykjEKCgjCARCn-bXykjEKCQhJEIH8r8uSMQoKCM4BEIH8r8uSMQoKCNYBEOTVzc-SMQoKCN4BEIH8r8uSMQoJCF8QiuWvy5IxCgoI3wEQp_m18pIxCgoI4gEQiuWvy5IxCgoI4wEQgfyvy5IxCgoI5gEQiuWvy5IxCgoI5wEQ5NXNz5IxCgkIcxC4mv3o8DAKCgj7ARDk1c3PkjEKCgj_ARDk1c3PkjE=; tluid=4596039404327367381854"
+            },
+            {
+                "name": "referer",
+                "value": "https://www.nytimes.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "image"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    "-------------------------------------------------------------------------------------------------------------"
 ]
