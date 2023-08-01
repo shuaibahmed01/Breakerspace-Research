@@ -1,0 +1,3889 @@
+[
+    "FILE : /Users/shuaibahmed/Gunrock Breakerspace/URL:FL Matching/HAR_files/Stinkburg.har",
+    {
+        "url": "https://googleads.g.doubleclick.net/pagead/ads?gdpr=0&client=ca-pub-2842623037342748&output=html&h=280&slotname=5288862849&adk=1229531224&adf=2036395975&pi=t.ma~as.5288862849&w=740&fwrn=4&fwrnh=100&lmt=1680381008&rafmt=1&format=740x280&url=https%3A%2F%2Ffrikinotas.com%2Fcelebridades-que-siguen-solteras%2F%3Frc_uuid%3D803d856a-a67a-4bd1-b6fb-7b836002753a%26utm_campaign%3D1886403%26utm_content%3D9981899%26utm_medium%3D167302%26utm_source%3Drevcontent%26utm_term%3DOther&fwr=0&fwrattr=true&rpe=1&resp_fmts=3&wgl=1&uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTExLjAuNTU2My4xNDciLFtdLGZhbHNlLG51bGwsIjY0IixbWyJHb29nbGUgQ2hyb21lIiwiMTExLjAuNTU2My4xNDciXSxbIk5vdChBOkJyYW5kIiwiOC4wLjAuMCJdLFsiQ2hyb21pdW0iLCIxMTEuMC41NTYzLjE0NyJdXSxmYWxzZV0.&dt=1680380993228&bpp=11&bdt=2027&idt=4908&shv=r20230329&mjsv=m202303270101&ptt=9&saldr=aa&abxe=1&cookie=ID%3D026aa3031e92ff55-22a373d9cbdc0082%3AT%3D1680035813%3AS%3DALNI_MZ_L3Ov4f_HEVAt5o9UoTgHetQOEw&gpic=UID%3D000009efabf9b37f%3AT%3D1680035813%3ART%3D1680035813%3AS%3DALNI_MbV1VbhFogI1p9DptDXe9vs5nMfvg&prev_fmts=0x0%2C300x600%2C728x280%2C300x600%2C300x600%2C300x600%2C300x250%2C740x280&nras=1&correlator=5220374310538&frm=20&pv=1&ga_vid=638113932.1680035790&ga_sid=1680381005&ga_hid=1991937598&ga_fc=1&u_tz=330&u_his=3&u_h=768&u_w=1366&u_ah=736&u_aw=1366&u_cd=24&u_sd=1&dmc=8&adx=350&ady=1422&biw=1349&bih=633&scr_x=0&scr_y=700&eid=44759926%2C44759875%2C44759837%2C42531705%2C44785294&oid=2&pvsid=2807464063228853&tmod=1698794762&uas=3&nvt=1&fc=1920&brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C736%2C1366%2C633&vis=1&rsz=o%7C%7CeEbr%7C&abl=CS&pfx=0&fu=128&bc=31&ifi=9&uci=a!9&btvi=6&fsb=1&xpc=7GTiMMQTqX&p=https%3A//frikinotas.com&dtd=12445",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/html",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "content-length",
+                "value": "38434"
+            },
+            {
+                "name": "content-type",
+                "value": "text/html; charset=UTF-8"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Tue, 01 Aug 2023 00:23:09 GMT"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\""
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "googleads.g.doubleclick.net"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/pagead/ads?gdpr=0&client=ca-pub-2842623037342748&output=html&h=280&slotname=5288862849&adk=1229531224&adf=2036395975&pi=t.ma~as.5288862849&w=740&fwrn=4&fwrnh=100&lmt=1680381008&rafmt=1&format=740x280&url=https%3A%2F%2Ffrikinotas.com%2Fcelebridades-que-siguen-solteras%2F%3Frc_uuid%3D803d856a-a67a-4bd1-b6fb-7b836002753a%26utm_campaign%3D1886403%26utm_content%3D9981899%26utm_medium%3D167302%26utm_source%3Drevcontent%26utm_term%3DOther&fwr=0&fwrattr=true&rpe=1&resp_fmts=3&wgl=1&uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTExLjAuNTU2My4xNDciLFtdLGZhbHNlLG51bGwsIjY0IixbWyJHb29nbGUgQ2hyb21lIiwiMTExLjAuNTU2My4xNDciXSxbIk5vdChBOkJyYW5kIiwiOC4wLjAuMCJdLFsiQ2hyb21pdW0iLCIxMTEuMC41NTYzLjE0NyJdXSxmYWxzZV0.&dt=1680380993228&bpp=11&bdt=2027&idt=4908&shv=r20230329&mjsv=m202303270101&ptt=9&saldr=aa&abxe=1&cookie=ID%3D026aa3031e92ff55-22a373d9cbdc0082%3AT%3D1680035813%3AS%3DALNI_MZ_L3Ov4f_HEVAt5o9UoTgHetQOEw&gpic=UID%3D000009efabf9b37f%3AT%3D1680035813%3ART%3D1680035813%3AS%3DALNI_MbV1VbhFogI1p9DptDXe9vs5nMfvg&prev_fmts=0x0%2C300x600%2C728x280%2C300x600%2C300x600%2C300x600%2C300x250%2C740x280&nras=1&correlator=5220374310538&frm=20&pv=1&ga_vid=638113932.1680035790&ga_sid=1680381005&ga_hid=1991937598&ga_fc=1&u_tz=330&u_his=3&u_h=768&u_w=1366&u_ah=736&u_aw=1366&u_cd=24&u_sd=1&dmc=8&adx=350&ady=1422&biw=1349&bih=633&scr_x=0&scr_y=700&eid=44759926%2C44759875%2C44759837%2C42531705%2C44785294&oid=2&pvsid=2807464063228853&tmod=1698794762&uas=3&nvt=1&fc=1920&brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C736%2C1366%2C633&vis=1&rsz=o%7C%7CeEbr%7C&abl=CS&pfx=0&fu=128&bc=31&ifi=9&uci=a!9&btvi=6&fsb=1&xpc=7GTiMMQTqX&p=https%3A//frikinotas.com&dtd=12445"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "IDE=AHWqTUkqIcUBfnAhnaQm4GC45KOvVXi1Lr08znnJKBwj1wKlkNleTkKJxjhtfV1sPFc; DSID=AGnTgWcT-YBbkq4Lj3cirXOwGP0bACU5Buula3sY1dhIrAuUMpwxxSOssx02Mf2rto-gT-MEI1HgmKfSCsFrdHiZ3Gw_yJntIOvy-up_gntxpqY80p0FliwcEgcMI5yiBeXZHQ36IbXDWHQTVO0rooOM0Zxjru11tTuJYwzsJ8wrA0-X_ct9d_lz0HoA-dWmT4-PdH44RRJqXv5EtDONNxNjnTD8JN5skytd4Ny7Z-VasS0rUiTAXjivc37h2eYnrm9YgUDiFGyjseSvSfIsTDdDKEIsu-1E6SiZiRKkGm8ojnFVwkZwrAw"
+            },
+            {
+                "name": "referer",
+                "value": "http://stinkburg.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "iframe"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "navigate"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "upgrade-insecure-requests",
+                "value": "1"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
+            }
+        ]
+    },
+    {
+        "url": "https://s0.2mdn.net/sadbundle/15844243159029644679/index.html",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/html",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "age",
+                "value": "488374"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "content-length",
+                "value": "3704"
+            },
+            {
+                "name": "content-type",
+                "value": "text/html"
+            },
+            {
+                "name": "cross-origin-opener-policy-report-only",
+                "value": "same-origin; report-to=\"ads-doubleclick-media\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Wed, 26 Jul 2023 08:42:06 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Thu, 25 Jul 2024 08:42:06 GMT"
+            },
+            {
+                "name": "last-modified",
+                "value": "Wed, 29 Mar 2023 16:01:11 GMT"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"ads-doubleclick-media\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/ads-doubleclick-media\"}]}"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-dns-prefetch-control",
+                "value": "off"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "Referer",
+                "value": "http://stinkburg.com/"
+            },
+            {
+                "name": "Upgrade-Insecure-Requests",
+                "value": "1"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://static.criteo.net/flash/icon/adchoices_en.svg",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "image/svg+xml",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Tue, 01 Aug 2023 00:21:40 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "strict-transport-security",
+                "value": "max-age=31536000; preload;"
+            },
+            {
+                "name": "last-modified",
+                "value": "Tue, 11 Feb 2020 14:27:58 GMT"
+            },
+            {
+                "name": "server",
+                "value": "nginx"
+            },
+            {
+                "name": "cross-origin-embedder-policy",
+                "value": "require-corp"
+            },
+            {
+                "name": "etag",
+                "value": "W/\"5e42b9ee-759\""
+            },
+            {
+                "name": "content-type",
+                "value": "image/svg+xml"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "max-age=31104000, public"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "expires",
+                "value": "Fri, 26 Jul 2024 00:21:40 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "http://stinkburg.com/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "x-unknown",
+        "status": 307,
+        "status_text": "Internal Redirect",
+        "headers": [
+            {
+                "name": "Cross-Origin-Resource-Policy",
+                "value": "Cross-Origin"
+            },
+            {
+                "name": "Location",
+                "value": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+            },
+            {
+                "name": "Non-Authoritative-Reason",
+                "value": "DNS"
+            }
+        ],
+        "request_headers": []
+    },
+    {
+        "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Tue, 01 Aug 2023 00:21:40 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "content-disposition",
+                "value": "attachment; filename=\"f.txt\""
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "50415"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "etag",
+                "value": "10448081941530712086"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript; charset=UTF-8"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "private, max-age=3600"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "expires",
+                "value": "Tue, 01 Aug 2023 00:21:40 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "Referer",
+                "value": "http://stinkburg.com/"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            }
+        ]
+    },
+    {
+        "url": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4461763012107414&output=html&h=282&slotname=4483338689&adk=2791168050&adf=3138071100&pi=t.ma~as.4483338689&w=728&fwrn=4&fwrnh=100&lmt=1681415789&rafmt=12&format=728x282&url=https%3A%2F%2Fwww.buzzaura.com%2Ffarmer-set-up-camera-to-see-why-leopard-visits-his-cow-every-night&fwr=0&fwrattr=true&rh=282&rw=728&sfro=1&wgl=1&uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTEyLjAuNTYxNS44NiIsW10sZmFsc2UsbnVsbCwiNjQiLFtbIkNocm9taXVtIiwiMTEyLjAuNTYxNS44NiJdLFsiR29vZ2xlIENocm9tZSIsIjExMi4wLjU2MTUuODYiXSxbIk5vdDpBLUJyYW5kIiwiOTkuMC4wLjAiXV0sZmFsc2Vd&dt=1681415789086&bpp=2&bdt=253&idt=414&shv=r20230411&mjsv=m202304060101&ptt=9&saldr=aa&abxe=1&prev_fmts=0x0&nras=1&correlator=2756659855722&frm=20&pv=1&ga_vid=1131223432.1681415783&ga_sid=1681415789&ga_hid=1762274123&ga_fc=1&u_tz=330&u_his=1&u_h=864&u_w=1536&u_ah=824&u_aw=1536&u_cd=24&u_sd=1.25&dmc=8&adx=258&ady=238&biw=1519&bih=696&scr_x=0&scr_y=2360&eid=42532090%2C42532186%2C44759837%2C44759875%2C44759926%2C21065724&oid=2&pvsid=1843451480335116&tmod=1477925985&uas=0&nvt=2&ref=https%3A%2F%2Fwww.google.com%2F&fc=1920&brdim=0%2C0%2C0%2C0%2C1536%2C0%2C1536%2C824%2C1536%2C696&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=128&bc=31&ifi=2&uci=a!2&fsb=1&xpc=paivVZEzPK&p=https%3A//www.buzzaura.com&dtd=432",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/html",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "content-length",
+                "value": "35757"
+            },
+            {
+                "name": "content-type",
+                "value": "text/html; charset=UTF-8"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Tue, 01 Aug 2023 00:23:08 GMT"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\""
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "googleads.g.doubleclick.net"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/pagead/ads?client=ca-pub-4461763012107414&output=html&h=282&slotname=4483338689&adk=2791168050&adf=3138071100&pi=t.ma~as.4483338689&w=728&fwrn=4&fwrnh=100&lmt=1681415789&rafmt=12&format=728x282&url=https%3A%2F%2Fwww.buzzaura.com%2Ffarmer-set-up-camera-to-see-why-leopard-visits-his-cow-every-night&fwr=0&fwrattr=true&rh=282&rw=728&sfro=1&wgl=1&uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTEyLjAuNTYxNS44NiIsW10sZmFsc2UsbnVsbCwiNjQiLFtbIkNocm9taXVtIiwiMTEyLjAuNTYxNS44NiJdLFsiR29vZ2xlIENocm9tZSIsIjExMi4wLjU2MTUuODYiXSxbIk5vdDpBLUJyYW5kIiwiOTkuMC4wLjAiXV0sZmFsc2Vd&dt=1681415789086&bpp=2&bdt=253&idt=414&shv=r20230411&mjsv=m202304060101&ptt=9&saldr=aa&abxe=1&prev_fmts=0x0&nras=1&correlator=2756659855722&frm=20&pv=1&ga_vid=1131223432.1681415783&ga_sid=1681415789&ga_hid=1762274123&ga_fc=1&u_tz=330&u_his=1&u_h=864&u_w=1536&u_ah=824&u_aw=1536&u_cd=24&u_sd=1.25&dmc=8&adx=258&ady=238&biw=1519&bih=696&scr_x=0&scr_y=2360&eid=42532090%2C42532186%2C44759837%2C44759875%2C44759926%2C21065724&oid=2&pvsid=1843451480335116&tmod=1477925985&uas=0&nvt=2&ref=https%3A%2F%2Fwww.google.com%2F&fc=1920&brdim=0%2C0%2C0%2C0%2C1536%2C0%2C1536%2C824%2C1536%2C696&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=128&bc=31&ifi=2&uci=a!2&fsb=1&xpc=paivVZEzPK&p=https%3A//www.buzzaura.com&dtd=432"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "IDE=AHWqTUkqIcUBfnAhnaQm4GC45KOvVXi1Lr08znnJKBwj1wKlkNleTkKJxjhtfV1sPFc; DSID=AGnTgWcT-YBbkq4Lj3cirXOwGP0bACU5Buula3sY1dhIrAuUMpwxxSOssx02Mf2rto-gT-MEI1HgmKfSCsFrdHiZ3Gw_yJntIOvy-up_gntxpqY80p0FliwcEgcMI5yiBeXZHQ36IbXDWHQTVO0rooOM0Zxjru11tTuJYwzsJ8wrA0-X_ct9d_lz0HoA-dWmT4-PdH44RRJqXv5EtDONNxNjnTD8JN5skytd4Ny7Z-VasS0rUiTAXjivc37h2eYnrm9YgUDiFGyjseSvSfIsTDdDKEIsu-1E6SiZiRKkGm8ojnFVwkZwrAw"
+            },
+            {
+                "name": "referer",
+                "value": "http://stinkburg.com/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "iframe"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "navigate"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "upgrade-insecure-requests",
+                "value": "1"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
+            }
+        ]
+    },
+    {
+        "url": "https://s0.2mdn.net/sadbundle/15844243159029644679/images/816471ddfe6fb6088bdc0c2b489e3f13.svg",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "image/svg+xml",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Fri, 28 Jul 2023 13:37:28 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "297852"
+            },
+            {
+                "name": "x-dns-prefetch-control",
+                "value": "off"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "198"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "last-modified",
+                "value": "Wed, 29 Mar 2023 16:01:11 GMT"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"ads-doubleclick-media\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/ads-doubleclick-media\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "image/svg+xml"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cross-origin-opener-policy-report-only",
+                "value": "same-origin; report-to=\"ads-doubleclick-media\""
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 27 Jul 2024 13:37:28 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://s0.2mdn.net/sadbundle/15844243159029644679/index.html"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://s0.2mdn.net/sadbundle/15844243159029644679/images/b7c479ec95152761d257c1172a0ac7a9.svg",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "image/svg+xml",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Wed, 26 Jul 2023 18:27:58 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "453222"
+            },
+            {
+                "name": "x-dns-prefetch-control",
+                "value": "off"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "2096"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "last-modified",
+                "value": "Wed, 29 Mar 2023 16:01:11 GMT"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"ads-doubleclick-media\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/ads-doubleclick-media\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "image/svg+xml"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cross-origin-opener-policy-report-only",
+                "value": "same-origin; report-to=\"ads-doubleclick-media\""
+            },
+            {
+                "name": "expires",
+                "value": "Thu, 25 Jul 2024 18:27:58 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://s0.2mdn.net/sadbundle/15844243159029644679/index.html"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://s0.2mdn.net/sadbundle/15844243159029644679/images/37c019a68857aa74e10880bba33e1b68.jpg",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "image/jpeg",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Sat, 29 Jul 2023 13:34:55 GMT"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "211605"
+            },
+            {
+                "name": "x-dns-prefetch-control",
+                "value": "off"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "16131"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "last-modified",
+                "value": "Wed, 29 Mar 2023 16:01:11 GMT"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"ads-doubleclick-media\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/ads-doubleclick-media\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "image/jpeg"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cross-origin-opener-policy-report-only",
+                "value": "same-origin; report-to=\"ads-doubleclick-media\""
+            },
+            {
+                "name": "expires",
+                "value": "Sun, 28 Jul 2024 13:34:55 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://s0.2mdn.net/sadbundle/15844243159029644679/index.html"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://s0.2mdn.net/sadbundle/15844243159029644679/images/b65f19c87a2540e61e0260301c1676ff.svg",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "image/svg+xml",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Sat, 29 Jul 2023 19:46:14 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "189326"
+            },
+            {
+                "name": "x-dns-prefetch-control",
+                "value": "off"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "426"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "last-modified",
+                "value": "Wed, 29 Mar 2023 16:01:11 GMT"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"ads-doubleclick-media\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/ads-doubleclick-media\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "image/svg+xml"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cross-origin-opener-policy-report-only",
+                "value": "same-origin; report-to=\"ads-doubleclick-media\""
+            },
+            {
+                "name": "expires",
+                "value": "Sun, 28 Jul 2024 19:46:14 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://s0.2mdn.net/sadbundle/15844243159029644679/index.html"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://s0.2mdn.net/sadbundle/15844243159029644679/images/2f0b8d2a1f1982fe141b7a43dda0b8e3.svg",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "image/svg+xml",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Fri, 28 Jul 2023 13:37:28 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "297852"
+            },
+            {
+                "name": "x-dns-prefetch-control",
+                "value": "off"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "1542"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "last-modified",
+                "value": "Wed, 29 Mar 2023 16:01:11 GMT"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"ads-doubleclick-media\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/ads-doubleclick-media\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "image/svg+xml"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cross-origin-opener-policy-report-only",
+                "value": "same-origin; report-to=\"ads-doubleclick-media\""
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 27 Jul 2024 13:37:28 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://s0.2mdn.net/sadbundle/15844243159029644679/index.html"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://s0.2mdn.net/sadbundle/15844243159029644679/images/5f4f50ce4ec5b6fa4e441ce1ccc13072.jpg",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "image/jpeg",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Wed, 26 Jul 2023 08:42:07 GMT"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "488373"
+            },
+            {
+                "name": "x-dns-prefetch-control",
+                "value": "off"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "14335"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "last-modified",
+                "value": "Wed, 29 Mar 2023 16:01:11 GMT"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"ads-doubleclick-media\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/ads-doubleclick-media\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "image/jpeg"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cross-origin-opener-policy-report-only",
+                "value": "same-origin; report-to=\"ads-doubleclick-media\""
+            },
+            {
+                "name": "expires",
+                "value": "Thu, 25 Jul 2024 08:42:07 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://s0.2mdn.net/sadbundle/15844243159029644679/index.html"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://s0.2mdn.net/sadbundle/15844243159029644679/images/93a89e88b7954942332a427008e94ca8.svg",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "image/svg+xml",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Fri, 28 Jul 2023 13:37:29 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "297851"
+            },
+            {
+                "name": "x-dns-prefetch-control",
+                "value": "off"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "142"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "last-modified",
+                "value": "Wed, 29 Mar 2023 16:01:11 GMT"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"ads-doubleclick-media\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/ads-doubleclick-media\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "image/svg+xml"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cross-origin-opener-policy-report-only",
+                "value": "same-origin; report-to=\"ads-doubleclick-media\""
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 27 Jul 2024 13:37:29 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://s0.2mdn.net/sadbundle/15844243159029644679/index.html"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://s0.2mdn.net/sadbundle/15844243159029644679/images/3a35cdeb092ba2508f788494fd9b8461.svg",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "image/svg+xml",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Wed, 26 Jul 2023 18:27:59 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "453221"
+            },
+            {
+                "name": "x-dns-prefetch-control",
+                "value": "off"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "2114"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "last-modified",
+                "value": "Wed, 29 Mar 2023 16:01:11 GMT"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"ads-doubleclick-media\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/ads-doubleclick-media\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "image/svg+xml"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cross-origin-opener-policy-report-only",
+                "value": "same-origin; report-to=\"ads-doubleclick-media\""
+            },
+            {
+                "name": "expires",
+                "value": "Thu, 25 Jul 2024 18:27:59 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://s0.2mdn.net/sadbundle/15844243159029644679/index.html"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://s0.2mdn.net/sadbundle/15844243159029644679/images/2e5909a8dce05fc9dd10a997d286f5b0.svg",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "image/svg+xml",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Wed, 26 Jul 2023 08:42:07 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "488373"
+            },
+            {
+                "name": "x-dns-prefetch-control",
+                "value": "off"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "519"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "last-modified",
+                "value": "Wed, 29 Mar 2023 16:01:11 GMT"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"ads-doubleclick-media\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/ads-doubleclick-media\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "image/svg+xml"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cross-origin-opener-policy-report-only",
+                "value": "same-origin; report-to=\"ads-doubleclick-media\""
+            },
+            {
+                "name": "expires",
+                "value": "Thu, 25 Jul 2024 08:42:07 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://s0.2mdn.net/sadbundle/15844243159029644679/index.html"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://s0.2mdn.net/sadbundle/15844243159029644679/images/c5f87339f3e96a015e1f2a1df38ed4d7.svg",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "image/svg+xml",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Wed, 26 Jul 2023 18:50:57 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "451843"
+            },
+            {
+                "name": "x-dns-prefetch-control",
+                "value": "off"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "1152"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "last-modified",
+                "value": "Wed, 29 Mar 2023 16:01:11 GMT"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"ads-doubleclick-media\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/ads-doubleclick-media\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "image/svg+xml"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cross-origin-opener-policy-report-only",
+                "value": "same-origin; report-to=\"ads-doubleclick-media\""
+            },
+            {
+                "name": "expires",
+                "value": "Thu, 25 Jul 2024 18:50:57 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://s0.2mdn.net/sadbundle/15844243159029644679/index.html"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202307270101/show_ads_impl_fy2021.js?bust=31076544",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Tue, 01 Aug 2023 00:21:41 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "content-disposition",
+                "value": "attachment; filename=\"f.txt\""
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "126294"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "etag",
+                "value": "648819480712752905"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript; charset=UTF-8"
+            },
+            {
+                "name": "cache-control",
+                "value": "private, max-age=1209600"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "expires",
+                "value": "Tue, 01 Aug 2023 00:21:41 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "http://stinkburg.com/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://googleads.g.doubleclick.net/pagead/html/r20230727/r20190131/zrt_lookup.html",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/html",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "age",
+                "value": "15425"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=1209600"
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "content-length",
+                "value": "4544"
+            },
+            {
+                "name": "content-type",
+                "value": "text/html; charset=UTF-8"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Mon, 31 Jul 2023 20:04:36 GMT"
+            },
+            {
+                "name": "etag",
+                "value": "12368291122986407432"
+            },
+            {
+                "name": "expires",
+                "value": "Mon, 14 Aug 2023 20:04:36 GMT"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\""
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "Referer",
+                "value": "http://stinkburg.com/"
+            },
+            {
+                "name": "Upgrade-Insecure-Requests",
+                "value": "1"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20230727/r20110914/client/load_preloaded_resource_fy2021.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Mon, 31 Jul 2023 05:15:23 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "68779"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "content-disposition",
+                "value": "attachment; filename=\"f.txt\""
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "865"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "etag",
+                "value": "5051423035144352294"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript; charset=UTF-8"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=1209600"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "expires",
+                "value": "Mon, 14 Aug 2023 05:15:23 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://googleads.g.doubleclick.net/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20230727/r20110914/abg_lite_fy2021.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Mon, 31 Jul 2023 18:06:21 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "22521"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "content-disposition",
+                "value": "attachment; filename=\"f.txt\""
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "9116"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "etag",
+                "value": "5341217345868469740"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript; charset=UTF-8"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=1209600"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "expires",
+                "value": "Mon, 14 Aug 2023 18:06:21 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://googleads.g.doubleclick.net/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20230727/r20110914/client/window_focus_fy2021.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Mon, 31 Jul 2023 21:06:17 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "11725"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "content-disposition",
+                "value": "attachment; filename=\"f.txt\""
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "1236"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "etag",
+                "value": "15004572836499977866"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript; charset=UTF-8"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=1209600"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "expires",
+                "value": "Mon, 14 Aug 2023 21:06:17 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://googleads.g.doubleclick.net/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20230727/r20110914/client/qs_click_protection_fy2021.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Mon, 31 Jul 2023 14:21:27 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "36015"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "content-disposition",
+                "value": "attachment; filename=\"f.txt\""
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "8273"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "etag",
+                "value": "9725510470914717636"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript; charset=UTF-8"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=1209600"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "expires",
+                "value": "Mon, 14 Aug 2023 14:21:27 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://googleads.g.doubleclick.net/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Tue, 01 Aug 2023 00:21:42 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "content-security-policy-report-only",
+                "value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/active-view-scs-read-write-acl"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "57355"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "cross-origin-opener-policy",
+                "value": "same-origin; report-to=\"active-view-scs-read-write-acl\""
+            },
+            {
+                "name": "etag",
+                "value": "\"1690371356542162\""
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"active-view-scs-read-write-acl\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/active-view-scs-read-write-acl\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript"
+            },
+            {
+                "name": "cache-control",
+                "value": "private, max-age=3000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "expires",
+                "value": "Tue, 01 Aug 2023 00:21:42 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://googleads.g.doubleclick.net/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20230727/r20110914/client/load_preloaded_resource_fy2021.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Mon, 31 Jul 2023 05:15:23 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "68779"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "content-disposition",
+                "value": "attachment; filename=\"f.txt\""
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "865"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "etag",
+                "value": "5051423035144352294"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript; charset=UTF-8"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=1209600"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "expires",
+                "value": "Mon, 14 Aug 2023 05:15:23 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://googleads.g.doubleclick.net/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20230727/r20110914/abg_lite_fy2021.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Mon, 31 Jul 2023 18:06:21 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "22521"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "content-disposition",
+                "value": "attachment; filename=\"f.txt\""
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "9116"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "etag",
+                "value": "5341217345868469740"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript; charset=UTF-8"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=1209600"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "expires",
+                "value": "Mon, 14 Aug 2023 18:06:21 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://googleads.g.doubleclick.net/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20230727/r20110914/client/window_focus_fy2021.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Mon, 31 Jul 2023 21:06:17 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "11725"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "content-disposition",
+                "value": "attachment; filename=\"f.txt\""
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "1236"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "etag",
+                "value": "15004572836499977866"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript; charset=UTF-8"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=1209600"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "expires",
+                "value": "Mon, 14 Aug 2023 21:06:17 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://googleads.g.doubleclick.net/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/pagead/js/r20230727/r20110914/client/qs_click_protection_fy2021.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Mon, 31 Jul 2023 14:21:27 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "36015"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://www.googleadservices.com/pagead/p3p.xml\", CP=\"NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "content-disposition",
+                "value": "attachment; filename=\"f.txt\""
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "8273"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "etag",
+                "value": "9725510470914717636"
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript; charset=UTF-8"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=1209600"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "expires",
+                "value": "Mon, 14 Aug 2023 14:21:27 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://googleads.g.doubleclick.net/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Tue, 01 Aug 2023 00:21:42 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "gzip"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "content-security-policy-report-only",
+                "value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/active-view-scs-read-write-acl"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "57355"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "cross-origin-opener-policy",
+                "value": "same-origin; report-to=\"active-view-scs-read-write-acl\""
+            },
+            {
+                "name": "etag",
+                "value": "\"1690371356542162\""
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"active-view-scs-read-write-acl\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/active-view-scs-read-write-acl\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript"
+            },
+            {
+                "name": "cache-control",
+                "value": "private, max-age=3000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "expires",
+                "value": "Tue, 01 Aug 2023 00:21:42 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://googleads.g.doubleclick.net/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/simgad/15897999276520739524/14763004658117789537?w=600&h=314",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "image/png",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "age",
+                "value": "472690"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "content-length",
+                "value": "3668"
+            },
+            {
+                "name": "content-type",
+                "value": "image/png"
+            },
+            {
+                "name": "cross-origin-opener-policy-report-only",
+                "value": "same-origin; report-to=\"content-ads-owners\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Wed, 26 Jul 2023 13:04:59 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Thu, 25 Jul 2024 13:04:59 GMT"
+            },
+            {
+                "name": "last-modified",
+                "value": "Sun, 30 Oct 2022 19:03:23 GMT"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"content-ads-owners\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/content-ads-owners\"}]}"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-dns-prefetch-control",
+                "value": "off"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "tpc.googlesyndication.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/simgad/15897999276520739524/14763004658117789537?w=600&h=314"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "referer",
+                "value": "https://googleads.g.doubleclick.net/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "image"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
+            }
+        ]
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/simgad/15713959268163737682/14763004658117789537?w=100&h=100",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "image/jpeg",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "age",
+                "value": "397537"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "content-length",
+                "value": "1008"
+            },
+            {
+                "name": "content-type",
+                "value": "image/jpeg"
+            },
+            {
+                "name": "cross-origin-opener-policy-report-only",
+                "value": "same-origin; report-to=\"content-ads-owners\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Thu, 27 Jul 2023 09:57:32 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Fri, 26 Jul 2024 09:57:32 GMT"
+            },
+            {
+                "name": "last-modified",
+                "value": "Sun, 30 Oct 2022 19:03:23 GMT"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"content-ads-owners\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/content-ads-owners\"}]}"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-dns-prefetch-control",
+                "value": "off"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "tpc.googlesyndication.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/simgad/15713959268163737682/14763004658117789537?w=100&h=100"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "referer",
+                "value": "https://googleads.g.doubleclick.net/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "image"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
+            }
+        ]
+    },
+    {
+        "url": "https://tpc.googlesyndication.com/simgad/7692993154855941835/14763004658117789537?w=400&h=209",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "image/jpeg",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "age",
+                "value": "291066"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "content-length",
+                "value": "17617"
+            },
+            {
+                "name": "content-type",
+                "value": "image/jpeg"
+            },
+            {
+                "name": "cross-origin-opener-policy-report-only",
+                "value": "same-origin; report-to=\"content-ads-owners\""
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Fri, 28 Jul 2023 15:32:03 GMT"
+            },
+            {
+                "name": "expires",
+                "value": "Sat, 27 Jul 2024 15:32:03 GMT"
+            },
+            {
+                "name": "last-modified",
+                "value": "Wed, 19 Oct 2022 13:08:46 GMT"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"content-ads-owners\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/content-ads-owners\"}]}"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-dns-prefetch-control",
+                "value": "off"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "tpc.googlesyndication.com"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/simgad/7692993154855941835/14763004658117789537?w=400&h=209"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "referer",
+                "value": "https://googleads.g.doubleclick.net/"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "image"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "cross-site"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
+            }
+        ]
+    },
+    {
+        "url": "https://googleads.g.doubleclick.net/pagead/adview?ai=CYkTCa1DIZN-xNuGK998P46CUgAjoxvT8cOvf_svRELCQHxABIPXUtipgyfbdhsij_BqgAd3Z0MsDyAEJqAMByAPLBKoEjgJP0AGN3wki2TrMLC83f0txRRtHVv9mfJJAo5rvMPG-UFXNF9JO58o2xbrXLgsoBlaxsYcbyHIrgFocmUoyWe-FH0u04QAOQ9CsNwaO-OANC4q0RM6Iv0qEMjlJcFIoYQtmvz6VVPrkliC0KPqLg3eMjBriwhiN8A4ZA5r2FqZ_2KS6tzcMhfqGB0sxl4Mary1YCO3bROfuq1pXM5xPe4lzqYRfjI5U5OfeU1kjhi3zWxx81gfO308Jg-SuFxTPY4F0MF5YuzKBmAceZBoETI95NLYYRr4jLf1zmu6Q0pBIAZiqzWGorJ_PVP7tyY2snK72sWT0KJwU9QOf3Ije332BtV9Ru3_7VKPxh07L-YbABMmzi6aRBJIFBAgEGAGSBQQIBRgEkgUECAUYGJIFBQgFGKgBkAYBoAYugAeLpq80iAcBkAcCqAfZtrECqAeOzhuoB5PYG6gH7paxAqgH_p6xAqgHpKOxAqgH1ckbqAemvhvYBwDyBwQQlPYw0ggYCAAQAhgaMgEAOgif0ICAgIAEEEi9_cE6gAoByAsBuBPkA9gTDYgUAtAVAZgWAYAXAbIXHAoaCAASFHB1Yi00NDYxNzYzMDEyMTA3NDE0GAA&sigh=1jJu6HVtgz0&uach_m=[UACH]&cid=CAQSMABpAlJWnreLLTD2HqwGyNl53HRLXErllGwaLF1fB_OYOuubPOZJFQMCVQ6pcLVlRhgB&template_id=484&cbvp=2&vis=1",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/html",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "access-control-allow-credentials",
+                "value": "true"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "0"
+            },
+            {
+                "name": "content-security-policy",
+                "value": "script-src 'none'; object-src 'none'"
+            },
+            {
+                "name": "content-type",
+                "value": "text/html; charset=UTF-8"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Tue, 01 Aug 2023 00:23:09 GMT"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\""
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "googleads.g.doubleclick.net"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/pagead/adview?ai=CYkTCa1DIZN-xNuGK998P46CUgAjoxvT8cOvf_svRELCQHxABIPXUtipgyfbdhsij_BqgAd3Z0MsDyAEJqAMByAPLBKoEjgJP0AGN3wki2TrMLC83f0txRRtHVv9mfJJAo5rvMPG-UFXNF9JO58o2xbrXLgsoBlaxsYcbyHIrgFocmUoyWe-FH0u04QAOQ9CsNwaO-OANC4q0RM6Iv0qEMjlJcFIoYQtmvz6VVPrkliC0KPqLg3eMjBriwhiN8A4ZA5r2FqZ_2KS6tzcMhfqGB0sxl4Mary1YCO3bROfuq1pXM5xPe4lzqYRfjI5U5OfeU1kjhi3zWxx81gfO308Jg-SuFxTPY4F0MF5YuzKBmAceZBoETI95NLYYRr4jLf1zmu6Q0pBIAZiqzWGorJ_PVP7tyY2snK72sWT0KJwU9QOf3Ije332BtV9Ru3_7VKPxh07L-YbABMmzi6aRBJIFBAgEGAGSBQQIBRgEkgUECAUYGJIFBQgFGKgBkAYBoAYugAeLpq80iAcBkAcCqAfZtrECqAeOzhuoB5PYG6gH7paxAqgH_p6xAqgHpKOxAqgH1ckbqAemvhvYBwDyBwQQlPYw0ggYCAAQAhgaMgEAOgif0ICAgIAEEEi9_cE6gAoByAsBuBPkA9gTDYgUAtAVAZgWAYAXAbIXHAoaCAASFHB1Yi00NDYxNzYzMDEyMTA3NDE0GAA&sigh=1jJu6HVtgz0&uach_m=[UACH]&cid=CAQSMABpAlJWnreLLTD2HqwGyNl53HRLXErllGwaLF1fB_OYOuubPOZJFQMCVQ6pcLVlRhgB&template_id=484&cbvp=2&vis=1"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "IDE=AHWqTUkqIcUBfnAhnaQm4GC45KOvVXi1Lr08znnJKBwj1wKlkNleTkKJxjhtfV1sPFc; DSID=AGnTgWcT-YBbkq4Lj3cirXOwGP0bACU5Buula3sY1dhIrAuUMpwxxSOssx02Mf2rto-gT-MEI1HgmKfSCsFrdHiZ3Gw_yJntIOvy-up_gntxpqY80p0FliwcEgcMI5yiBeXZHQ36IbXDWHQTVO0rooOM0Zxjru11tTuJYwzsJ8wrA0-X_ct9d_lz0HoA-dWmT4-PdH44RRJqXv5EtDONNxNjnTD8JN5skytd4Ny7Z-VasS0rUiTAXjivc37h2eYnrm9YgUDiFGyjseSvSfIsTDdDKEIsu-1E6SiZiRKkGm8ojnFVwkZwrAw"
+            },
+            {
+                "name": "referer",
+                "value": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4461763012107414&output=html&h=282&slotname=4483338689&adk=2791168050&adf=3138071100&pi=t.ma~as.4483338689&w=728&fwrn=4&fwrnh=100&lmt=1681415789&rafmt=12&format=728x282&url=https%3A%2F%2Fwww.buzzaura.com%2Ffarmer-set-up-camera-to-see-why-leopard-visits-his-cow-every-night&fwr=0&fwrattr=true&rh=282&rw=728&sfro=1&wgl=1&uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTEyLjAuNTYxNS44NiIsW10sZmFsc2UsbnVsbCwiNjQiLFtbIkNocm9taXVtIiwiMTEyLjAuNTYxNS44NiJdLFsiR29vZ2xlIENocm9tZSIsIjExMi4wLjU2MTUuODYiXSxbIk5vdDpBLUJyYW5kIiwiOTkuMC4wLjAiXV0sZmFsc2Vd&dt=1681415789086&bpp=2&bdt=253&idt=414&shv=r20230411&mjsv=m202304060101&ptt=9&saldr=aa&abxe=1&prev_fmts=0x0&nras=1&correlator=2756659855722&frm=20&pv=1&ga_vid=1131223432.1681415783&ga_sid=1681415789&ga_hid=1762274123&ga_fc=1&u_tz=330&u_his=1&u_h=864&u_w=1536&u_ah=824&u_aw=1536&u_cd=24&u_sd=1.25&dmc=8&adx=258&ady=238&biw=1519&bih=696&scr_x=0&scr_y=2360&eid=42532090%2C42532186%2C44759837%2C44759875%2C44759926%2C21065724&oid=2&pvsid=1843451480335116&tmod=1477925985&uas=0&nvt=2&ref=https%3A%2F%2Fwww.google.com%2F&fc=1920&brdim=0%2C0%2C0%2C0%2C1536%2C0%2C1536%2C824%2C1536%2C696&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=128&bc=31&ifi=2&uci=a!2&fsb=1&xpc=paivVZEzPK&p=https%3A//www.buzzaura.com&dtd=432"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "image"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "same-origin"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
+            }
+        ]
+    },
+    {
+        "url": "https://pagead2.googlesyndication.com/bg/exXNUSsPja7e8iu35jrfljSpibGDl_1pyv4-G5NBtGM.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Mon, 31 Jul 2023 10:48:57 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "48772"
+            },
+            {
+                "name": "content-security-policy-report-only",
+                "value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/botguard-scs"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "14592"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "last-modified",
+                "value": "Mon, 24 Jul 2023 13:39:59 GMT"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "cross-origin-opener-policy",
+                "value": "same-origin; report-to=\"botguard-scs\""
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"botguard-scs\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/botguard-scs\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "expires",
+                "value": "Tue, 30 Jul 2024 10:48:57 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://googleads.g.doubleclick.net/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    {
+        "url": "https://googleads.g.doubleclick.net/pagead/adview?ai=CSQWXa1DIZLSaMPPN998Pxpil2Aq-k-z6cbGpy_LSEZOyzvyRDhABIOOHvh5gyfbdhsij_BqgAfTEkJ8CyAEJqAMByAPLBKoE7AFP0Ccxbr-UKs6Atf22mgOJt5eJz6oZU6wbwpmwlsegsg1tR03sAWan-9S4K6ObUUIY6fi7ARNsht5xCh-BMcDkNZxkBrnfkcTihviU4O_DRG70GUfHPbe4FOwiSOjgHhuWEh1lu_Ao8JfBPIPGuVPzuwqodXbTdmgwjriEJgtjhscwnbVMXfM9l7aDC5iInyQ7ZCOyN_HQJ8HVsQwZu0Hle_sXWDkLKLNeBT7B7nEjTgJyp35NJm7Fa2hx73OitaJN_7asxSpRGOtHGOl5rMqZPECZ6aYS-lDo81GqHOQva0nQbu7DMR-snswHGsAEq_H0gLIEkgUECAQYAZIFBAgFGASQBgGgBi6AB8Sm8uABiAcBkAcCqAfZtrECqAeOzhuoB5PYG6gH7paxAqgH_p6xAqgHpKOxAqgH1ckbqAemvhvYBwDyBwQQ45820ggYCAAQAhgaMgEAOgif0ICAgIAEEEi9_cE6gAoByAsB2BMM0BUBgBcBshccChoIABIUcHViLTI4NDI2MjMwMzczNDI3NDgYAA&sigh=nSZrvxhriCY&uach_m=[UACH]&cid=CAQSQgBpAlJW3jPe1GDQniFfX6tdt8PFlFgQ-9qkFoXwW1K_F0KEyAqsc3z0_47JvlnQu9fOH3i0cmFiK3z1yo_UkYq-eRgB&template_id=5000&cbvp=2&vis=1",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/html",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "access-control-allow-credentials",
+                "value": "true"
+            },
+            {
+                "name": "access-control-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "0"
+            },
+            {
+                "name": "content-security-policy",
+                "value": "script-src 'none'; object-src 'none'"
+            },
+            {
+                "name": "content-type",
+                "value": "text/html; charset=UTF-8"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "date",
+                "value": "Tue, 01 Aug 2023 00:23:09 GMT"
+            },
+            {
+                "name": "p3p",
+                "value": "policyref=\"https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml\", CP=\"CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\""
+            },
+            {
+                "name": "server",
+                "value": "cafe"
+            },
+            {
+                "name": "timing-allow-origin",
+                "value": "*"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": ":authority",
+                "value": "googleads.g.doubleclick.net"
+            },
+            {
+                "name": ":method",
+                "value": "GET"
+            },
+            {
+                "name": ":path",
+                "value": "/pagead/adview?ai=CSQWXa1DIZLSaMPPN998Pxpil2Aq-k-z6cbGpy_LSEZOyzvyRDhABIOOHvh5gyfbdhsij_BqgAfTEkJ8CyAEJqAMByAPLBKoE7AFP0Ccxbr-UKs6Atf22mgOJt5eJz6oZU6wbwpmwlsegsg1tR03sAWan-9S4K6ObUUIY6fi7ARNsht5xCh-BMcDkNZxkBrnfkcTihviU4O_DRG70GUfHPbe4FOwiSOjgHhuWEh1lu_Ao8JfBPIPGuVPzuwqodXbTdmgwjriEJgtjhscwnbVMXfM9l7aDC5iInyQ7ZCOyN_HQJ8HVsQwZu0Hle_sXWDkLKLNeBT7B7nEjTgJyp35NJm7Fa2hx73OitaJN_7asxSpRGOtHGOl5rMqZPECZ6aYS-lDo81GqHOQva0nQbu7DMR-snswHGsAEq_H0gLIEkgUECAQYAZIFBAgFGASQBgGgBi6AB8Sm8uABiAcBkAcCqAfZtrECqAeOzhuoB5PYG6gH7paxAqgH_p6xAqgHpKOxAqgH1ckbqAemvhvYBwDyBwQQ45820ggYCAAQAhgaMgEAOgif0ICAgIAEEEi9_cE6gAoByAsB2BMM0BUBgBcBshccChoIABIUcHViLTI4NDI2MjMwMzczNDI3NDgYAA&sigh=nSZrvxhriCY&uach_m=[UACH]&cid=CAQSQgBpAlJW3jPe1GDQniFfX6tdt8PFlFgQ-9qkFoXwW1K_F0KEyAqsc3z0_47JvlnQu9fOH3i0cmFiK3z1yo_UkYq-eRgB&template_id=5000&cbvp=2&vis=1"
+            },
+            {
+                "name": ":scheme",
+                "value": "https"
+            },
+            {
+                "name": "accept",
+                "value": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"
+            },
+            {
+                "name": "accept-encoding",
+                "value": "gzip, deflate, br"
+            },
+            {
+                "name": "accept-language",
+                "value": "en-US,en;q=0.9"
+            },
+            {
+                "name": "cookie",
+                "value": "IDE=AHWqTUkqIcUBfnAhnaQm4GC45KOvVXi1Lr08znnJKBwj1wKlkNleTkKJxjhtfV1sPFc; DSID=AGnTgWcT-YBbkq4Lj3cirXOwGP0bACU5Buula3sY1dhIrAuUMpwxxSOssx02Mf2rto-gT-MEI1HgmKfSCsFrdHiZ3Gw_yJntIOvy-up_gntxpqY80p0FliwcEgcMI5yiBeXZHQ36IbXDWHQTVO0rooOM0Zxjru11tTuJYwzsJ8wrA0-X_ct9d_lz0HoA-dWmT4-PdH44RRJqXv5EtDONNxNjnTD8JN5skytd4Ny7Z-VasS0rUiTAXjivc37h2eYnrm9YgUDiFGyjseSvSfIsTDdDKEIsu-1E6SiZiRKkGm8ojnFVwkZwrAw"
+            },
+            {
+                "name": "referer",
+                "value": "https://googleads.g.doubleclick.net/pagead/ads?gdpr=0&client=ca-pub-2842623037342748&output=html&h=280&slotname=5288862849&adk=1229531224&adf=2036395975&pi=t.ma~as.5288862849&w=740&fwrn=4&fwrnh=100&lmt=1680381008&rafmt=1&format=740x280&url=https%3A%2F%2Ffrikinotas.com%2Fcelebridades-que-siguen-solteras%2F%3Frc_uuid%3D803d856a-a67a-4bd1-b6fb-7b836002753a%26utm_campaign%3D1886403%26utm_content%3D9981899%26utm_medium%3D167302%26utm_source%3Drevcontent%26utm_term%3DOther&fwr=0&fwrattr=true&rpe=1&resp_fmts=3&wgl=1&uach=WyJXaW5kb3dzIiwiMTAuMC4wIiwieDg2IiwiIiwiMTExLjAuNTU2My4xNDciLFtdLGZhbHNlLG51bGwsIjY0IixbWyJHb29nbGUgQ2hyb21lIiwiMTExLjAuNTU2My4xNDciXSxbIk5vdChBOkJyYW5kIiwiOC4wLjAuMCJdLFsiQ2hyb21pdW0iLCIxMTEuMC41NTYzLjE0NyJdXSxmYWxzZV0.&dt=1680380993228&bpp=11&bdt=2027&idt=4908&shv=r20230329&mjsv=m202303270101&ptt=9&saldr=aa&abxe=1&cookie=ID%3D026aa3031e92ff55-22a373d9cbdc0082%3AT%3D1680035813%3AS%3DALNI_MZ_L3Ov4f_HEVAt5o9UoTgHetQOEw&gpic=UID%3D000009efabf9b37f%3AT%3D1680035813%3ART%3D1680035813%3AS%3DALNI_MbV1VbhFogI1p9DptDXe9vs5nMfvg&prev_fmts=0x0%2C300x600%2C728x280%2C300x600%2C300x600%2C300x600%2C300x250%2C740x280&nras=1&correlator=5220374310538&frm=20&pv=1&ga_vid=638113932.1680035790&ga_sid=1680381005&ga_hid=1991937598&ga_fc=1&u_tz=330&u_his=3&u_h=768&u_w=1366&u_ah=736&u_aw=1366&u_cd=24&u_sd=1&dmc=8&adx=350&ady=1422&biw=1349&bih=633&scr_x=0&scr_y=700&eid=44759926%2C44759875%2C44759837%2C42531705%2C44785294&oid=2&pvsid=2807464063228853&tmod=1698794762&uas=3&nvt=1&fc=1920&brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C736%2C1366%2C633&vis=1&rsz=o%7C%7CeEbr%7C&abl=CS&pfx=0&fu=128&bc=31&ifi=9&uci=a!9&btvi=6&fsb=1&xpc=7GTiMMQTqX&p=https%3A//frikinotas.com&dtd=12445"
+            },
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            },
+            {
+                "name": "sec-fetch-dest",
+                "value": "image"
+            },
+            {
+                "name": "sec-fetch-mode",
+                "value": "no-cors"
+            },
+            {
+                "name": "sec-fetch-site",
+                "value": "same-origin"
+            },
+            {
+                "name": "user-agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "x-client-data",
+                "value": "CIW2yQEIpbbJAQipncoBCLbcygEIk6HLAQj1mM0BCJ+czQEIhqDNAQjRvs0B"
+            }
+        ]
+    },
+    {
+        "url": "https://pagead2.googlesyndication.com/bg/exXNUSsPja7e8iu35jrfljSpibGDl_1pyv4-G5NBtGM.js",
+        "dimensions": {
+            "width": null,
+            "height": null
+        },
+        "mime_type": "text/javascript",
+        "status": 200,
+        "status_text": "",
+        "headers": [
+            {
+                "name": "date",
+                "value": "Mon, 31 Jul 2023 10:48:57 GMT"
+            },
+            {
+                "name": "content-encoding",
+                "value": "br"
+            },
+            {
+                "name": "x-content-type-options",
+                "value": "nosniff"
+            },
+            {
+                "name": "age",
+                "value": "48772"
+            },
+            {
+                "name": "content-security-policy-report-only",
+                "value": "require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/botguard-scs"
+            },
+            {
+                "name": "cross-origin-resource-policy",
+                "value": "cross-origin"
+            },
+            {
+                "name": "alt-svc",
+                "value": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+            },
+            {
+                "name": "content-length",
+                "value": "14592"
+            },
+            {
+                "name": "x-xss-protection",
+                "value": "0"
+            },
+            {
+                "name": "last-modified",
+                "value": "Mon, 24 Jul 2023 13:39:59 GMT"
+            },
+            {
+                "name": "server",
+                "value": "sffe"
+            },
+            {
+                "name": "cross-origin-opener-policy",
+                "value": "same-origin; report-to=\"botguard-scs\""
+            },
+            {
+                "name": "vary",
+                "value": "Accept-Encoding"
+            },
+            {
+                "name": "report-to",
+                "value": "{\"group\":\"botguard-scs\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/botguard-scs\"}]}"
+            },
+            {
+                "name": "content-type",
+                "value": "text/javascript"
+            },
+            {
+                "name": "cache-control",
+                "value": "public, max-age=31536000"
+            },
+            {
+                "name": "accept-ranges",
+                "value": "bytes"
+            },
+            {
+                "name": "expires",
+                "value": "Tue, 30 Jul 2024 10:48:57 GMT"
+            }
+        ],
+        "request_headers": [
+            {
+                "name": "sec-ch-ua",
+                "value": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\""
+            },
+            {
+                "name": "Referer",
+                "value": "https://googleads.g.doubleclick.net/"
+            },
+            {
+                "name": "sec-ch-ua-mobile",
+                "value": "?0"
+            },
+            {
+                "name": "User-Agent",
+                "value": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+            },
+            {
+                "name": "sec-ch-ua-platform",
+                "value": "\"macOS\""
+            }
+        ]
+    },
+    "-------------------------------------------------------------------------------------------------------------"
+]

@@ -40,6 +40,8 @@ def extract_ad_data_from_har(har_file_path, website_label):
             option = {'image': True, 'subdocument': True, 'third-party':True}
         elif resource_type == 'object':
             option = {'object': True, 'subdocument': True, 'third-party':True}
+        elif resource_type == 'stylesheet':
+            option = {'stylesheet': True, 'subdocument': True, 'third-party':True}
         elif resource_type == 'elemhide':
             option = {'elemhide': True, 'subdocument': True, 'third-party':True}
         elif resource_type == 'background':
@@ -106,7 +108,7 @@ for har_file_path in har_file_paths:
     
     if ad_data_list:
         print("Ad data extracted from", har_file_path)
-        save_to_json(ad_data_list, 'output.json')
+        save_to_json(ad_data_list, '100Realt.json')
         print("Ad data saved to 'ad_data.json' file.")
     else:
         print("No ads found in the HAR file", har_file_path)
